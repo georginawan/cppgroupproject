@@ -1,0 +1,36 @@
+Accounting-ACT
+Biology-BIO
+Biomedical Engineering-BME
+Chemistry-CHM
+Chinese-CHI
+Chinese Language and Culture-CLC
+Computer Science-CSC
+Decision& Management Sciences-DMS
+Economics-ECO
+Electronic Info Engineering-EIE
+Energy Engineering-ENE
+English-ENG
+Finance-FIN
+French-FRN
+General Engineering courses-ERG
+Genomics and Bioinformatics-GNB
+German-GER
+GE Areas Area A-GEA
+GE Areas Area B-GEB
+GE Areas Area C-GEC
+GE Areas Area D-GED
+GE Foundation Humanity-GFH
+GE Foundation Nature-GFN
+Humanities and Social Science-HSS
+Information Technology-ITE
+Innovation Design&Entrepreneur-IDE
+Management-MGT
+Marketing-MKT
+Material Science Engineering-MSE
+Mathematics-MAT
+Physical Education-PED
+Physics-PHY
+Risk Management Science-RMS
+Spanish-SPN
+Statistics-STA
+Translation-TRA

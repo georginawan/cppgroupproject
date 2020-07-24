@@ -1,0 +1,3195 @@
+>ACT 3111 - Financial Reporting I 
+L01-LEC(2159) 
+Tu,13:00,14:20,Th,13:00,14:20
+Zhi Ren Bldg 206 
+Siu Po Lee 
+L02-LEC(2160) 
+Tu,15:00,16:20,Th,15:00,16:20
+Zhi Ren Bldg 206 
+Siu Po Lee 
+T01-TUT(2161) 
+We,18:00,18:50
+Teaching D Bldg 107 
+Ó¦ÈôÄþ 
+T02-TUT(2162) 
+Th,18:00,18:50
+Teaching D Bldg 107 
+Ó¦ÈôÄþ 
+T03-TUT(2163) 
+We,20:00,20:50
+Teaching D Bldg 107 
+Ó¦ÈôÄþ 
+T04-TUT(2164) 
+Th,20:00,20:50
+Teaching D Bldg 107 
+Ó¦ÈôÄþ 
+>ACT 3121 - Cost and Management Accounting 
+L01-LEC(2165) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching C Bldg 103 
+Yi Cao 
+L02-LEC(2166) 
+We,13:30,14:50,Mo,13:30,14:50
+Teaching C Bldg 103 
+Yi Cao 
+T01-TUT(2167) 
+We,19:00,19:50
+Teaching C Bldg 109 
+ÕÔÈðÑ© 
+T02-TUT(2168) 
+Th,18:00,18:50
+Teaching C Bldg 109 
+ÕÔÈðÑ© 
+T03-TUT(2169) 
+Tu,18:00,18:50
+Teaching C Bldg 109 
+ÕÔÈðÑ© 
+T04-TUT(2170) 
+Th,20:00,20:50
+Teaching C Bldg 109 
+ÕÔÈðÑ© 
+>ACT 3141 - Accounting Information Systems 
+L01-LEC(2171) 
+Tu,08:30,09:50,Th,08:30,09:50
+Zhi Xin Bldg 102 
+Ho Yin Wong 
+L02-LEC(2172) 
+Tu,13:30,14:50,Th,13:30,14:50
+Zhi Xin Bldg 102 
+Ho Yin Wong 
+>ACT 4111 - Advanced Financial Accounting 
+L01-LEC(2173) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching C Bldg 414 
+Wilburn TSANG 
+L02-LEC(2174) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching C Bldg 414 
+Wilburn TSANG 
+T01-TUT(2175) 
+Tu,18:00,18:50
+Teaching A Bldg 106 
+Wenting Jin 
+T02-TUT(2176) 
+Tu,20:00,20:50
+Teaching A Bldg 106 
+Wenting Jin 
+T03-TUT(2177) 
+We,20:00,20:50
+Teaching A Bldg 106 
+Wenting Jin 
+T04-TUT(2178) 
+Th,20:00,20:50
+Teaching A Bldg 106 
+Wenting Jin 
+>ACT 4121 - Strategic Management Accounting 
+L01-LEC(2575) 
+Th,10:00,10:50,Tu,10:00,11:50
+Teaching D Bldg 206 
+Éêî£ (SHEN, Rui) 
+L02-LEC(2576) 
+Th,13:00,13:50,Tu,13:00,14:50
+Teaching C Bldg 103 
+Éêî£ (SHEN, Rui) 
+>ACT 4213 - Financial Statement Analysis 
+L01-LEC(2606) 
+Tu,15:30,16:50,Th,15:30,16:50
+Administration Bldg E205 
+xiaoqiao wang 
+L02-LEC(2607) 
+Tu,10:30,11:50,Th,10:30,11:50
+Administration Bldg E205 
+xiaoqiao wang 
+T01-TUT(2608) 
+We,20:00,20:50
+Teaching C Bldg 208 
+Snowy Chang 
+T02-TUT(2609) 
+Th,19:00,19:50
+Teaching C Bldg 208 
+Snowy Chang 
+T03-TUT(2610) 
+We,20:00,20:50
+Teaching D Bldg 206 
+Snowy Chang 
+T04-TUT(2611) 
+Fr,20:00,20:50
+Teaching C Bldg 208 
+Snowy Chang 
+>ACT 4253 - Business Ethics and CSR 
+L01-LEC(2179) 
+Mo,08:30,09:50,We,08:30,09:50
+Zhi Xin Bldg 111 
+Wen Zhang 
+L02-LEC(2180) 
+Fr,10:30,11:50,Mo,15:30,16:50
+Zhi Xin Bldg 110 
+Wen Zhang 
+T01-TUT(2181) 
+Tu,20:00,20:50
+Teaching A Bldg 207 
+Jingdan Tan, Yanqi Shi 
+T02-TUT(2182) 
+Th,18:00,18:50
+Teaching A Bldg 207 
+Jingdan Tan, Yanqi Shi 
+T03-TUT(2183) 
+Mo,20:00,20:50
+Teaching A Bldg 207 
+Jingdan Tan, Yanqi Shi 
+T04-TUT(2184) 
+Mo,19:00,19:50
+Teaching A Bldg 207 
+Jingdan Tan, Yanqi Shi 
+>BIO 2001 - General Biology 
+L01-LEC(2285) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching B Bldg 201 
+Jihang Chen 
+L02-LEC(2286) 
+Mo,15:30,16:50,We,15:30,16:50
+Teaching B Bldg 201 
+Jihang Chen 
+L03-LEC(2287) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching B Bldg 201 
+Jihang Chen 
+T01-TUT(2288) 
+Tu,18:00,18:50
+Teaching D Bldg 209 
+Xinran Tan 
+T02-TUT(2289) 
+Tu,19:00,19:50
+Teaching D Bldg 209 
+Xinran Tan 
+T03-TUT(2290) 
+Mo,18:00,18:50
+Teaching D Bldg 209 
+Xinran Tan 
+T04-TUT(2291) 
+We,19:00,19:50
+Teaching D Bldg 209 
+Xinran Tan 
+T05-TUT(2292) 
+Th,18:00,18:50
+Teaching D Bldg 209 
+Xinran Tan 
+T06-TUT(2293) 
+Th,19:00,19:50
+Teaching D Bldg 209 
+Xinran Tan 
+T07-TUT(2294) 
+Fr,18:00,18:50
+Teaching D Bldg 209 
+Xinran Tan 
+T08-TUT(2295) 
+Fr,19:00,19:50
+Teaching D Bldg 209 
+Xinran Tan 
+T09-TUT(2296) 
+Mo,19:00,19:50
+Teaching D Bldg 209 
+Xinran Tan 
+T10-TUT(2297) 
+Tu,20:00,20:50
+Teaching D Bldg 209 
+Xinran Tan 
+>BME 2010 - The Merge of Information Technology and Biotechnology 
+L01-LEC(2712) 
+Fr,10:30,11:50,Th,16:00,17:20
+Teaching D Bldg 211 
+Zi Wei Huang 
+T01-TUT(2713) 
+Fr,19:00,19:50
+Teaching D Bldg 210 
+Àî¼Ñ¸ù (LI, Jiagen) 
+>BME 4005 - Bioinformatics 
+L01-LEC(2780) 
+Mo,17:00,17:50,We,19:00,20:50
+Teaching A Bldg 302 
+Hsien-Da Huang, Li Zhe Zhu, Tzong-Yi Lee 
+T01-TUT(2781) 
+Th,19:00,19:50
+Teaching D Bldg 303 
+Kaiyao Huang, Ï¯À¥ (XI, Kun), »ÆÎõÔ¨ (HUANG, Hsi-Yuan) 
+T02-TUT(2782) 
+Fr,19:00,19:50
+Teaching D Bldg 303 
+Kaiyao Huang, Ï¯À¥ (XI, Kun), »ÆÎõÔ¨ (HUANG, Hsi-Yuan) 
+>CHM 2001 - Organic Chemistry 
+L01-LEC(2185) 
+Th,10:30,11:50,Fr,10:30,11:50
+Teaching A Bldg 108 
+Glen HUI 
+T01-TUT(2186) 
+Th,20:00,20:50
+Teaching A Bldg 108 
+Chunping Qi 
+>CHI 1000 - Chinese 
+L01-LEC(1873) 
+Mo,08:30,09:50
+Teaching C Bldg 113 
+qiying zhang 
+L02-LEC(1874) 
+Tu,08:30,09:50
+Teaching C Bldg 110 
+½ð·½Í¢ 
+L03-LEC(1875) 
+Mo,08:30,09:50
+Teaching D Bldg 115 
+Jia Jin 
+L04-LEC(1876) 
+Tu,10:30,11:50
+Teaching D Bldg 115 
+Jia Jin 
+L05-LEC(1877) 
+Mo,13:00,14:20
+Teaching D Bldg 115 
+Jia Jin 
+L06-LEC(1878) 
+Tu,08:30,09:50
+Teaching C Bldg 112 
+Bohan Li 
+L07-LEC(1879) 
+Tu,10:30,11:50
+Teaching C Bldg 112 
+Bohan Li 
+L08-LEC(1880) 
+Tu,13:30,14:50
+Teaching C Bldg 112 
+Bohan Li 
+L09-LEC(1881) 
+Tu,15:00,16:20
+Teaching C Bldg 112 
+Cheng Chuan LIN 
+L10-LEC(1882) 
+Mo,13:00,14:20
+Teaching C Bldg 112 
+Cheng Chuan LIN 
+L11-LEC(1883) 
+Mo,15:00,16:20
+Teaching C Bldg 112 
+Cheng Chuan LIN 
+L12-LEC(1884) 
+Tu,10:30,11:50
+Teaching C Bldg 202 
+Wing Shun Wong 
+L13-LEC(1885) 
+Tu,13:00,14:20
+Teaching C Bldg 202 
+Wing Shun Wong 
+L14-LEC(1886) 
+Tu,15:00,16:20
+Teaching C Bldg 202 
+Wing Shun Wong 
+L15-LEC(1887) 
+Tu,15:00,16:20
+Teaching C Bldg 113 
+ÕÔè±áÔ 
+L16-LEC(1888) 
+Mo,13:00,14:20
+Teaching C Bldg 113 
+ÕÔè±áÔ 
+L17-LEC(1889) 
+Mo,15:00,16:20
+Teaching C Bldg 113 
+ÕÔè±áÔ 
+T01-TUT(1890) 
+We,08:30,09:50
+Teaching C Bldg 113 
+qiying zhang 
+T02-TUT(1891) 
+Th,08:30,09:50
+Teaching C Bldg 110 
+½ð·½Í¢ 
+T03-TUT(1892) 
+We,08:30,09:50
+Teaching D Bldg 115 
+Jia Jin 
+T04-TUT(1893) 
+Th,10:30,11:50
+Teaching D Bldg 115 
+Jia Jin 
+T05-TUT(1894) 
+We,13:00,14:20
+Teaching D Bldg 115 
+Jia Jin 
+T06-TUT(1895) 
+Th,08:30,09:50
+Teaching C Bldg 112 
+Bohan Li 
+T07-TUT(1896) 
+Th,10:30,11:50
+Teaching C Bldg 112 
+Bohan Li 
+T08-TUT(1897) 
+Th,13:30,14:50
+Teaching C Bldg 112 
+Bohan Li 
+T09-TUT(1898) 
+Th,15:00,16:20
+Teaching C Bldg 112 
+Cheng Chuan LIN 
+T10-TUT(1899) 
+We,13:00,14:20
+Teaching C Bldg 112 
+Cheng Chuan LIN 
+T11-TUT(1900) 
+We,15:00,16:20
+Teaching C Bldg 112 
+Cheng Chuan LIN 
+T12-TUT(1901) 
+Th,10:30,11:50
+Teaching C Bldg 202 
+Wing Shun Wong 
+T13-TUT(1902) 
+Th,13:00,14:20
+Teaching C Bldg 202 
+Wing Shun Wong 
+T14-TUT(1903) 
+Th,15:00,16:20
+Teaching C Bldg 202 
+Wing Shun Wong 
+T15-TUT(1904) 
+Th,15:00,16:20
+Teaching C Bldg 113 
+ÕÔè±áÔ 
+T16-TUT(1905) 
+We,13:00,14:20
+Teaching C Bldg 113 
+ÕÔè±áÔ 
+T17-TUT(1906) 
+We,15:00,16:20
+Teaching C Bldg 113 
+ÕÔè±áÔ 
+>CHI 2002 - Appreciation of Classical Poetry and Lyrics 
+L01-LEC(2695) 
+Tu,13:30,15:20
+Teaching C Bldg 208 
+qiying zhang 
+T01-TUT(2696) 
+Th,13:30,15:20
+Teaching C Bldg 208 
+qiying zhang 
+T02-TUT(2697) 
+Th,16:00,17:50
+Teaching C Bldg 208 
+qiying zhang 
+>CHI 2003 - Chinese Characters and Traditional Culture 
+L01-LEC(2698) 
+Mo,13:30,15:20
+Teaching D Bldg 208 
+weina zheng 
+T01-TUT(2699) 
+We,13:30,15:20
+Teaching D Bldg 107 
+weina zheng 
+T02-TUT(2700) 
+We,16:00,17:50
+Teaching D Bldg 107 
+weina zheng 
+>CHI 2011 - Introduction to Art and Chinese Painting and Calligraphy (II) 
+L01-LEC(2701) 
+Tu,10:00,11:50,Th,10:00,11:50
+Teaching C Bldg 103 
+Baizhong Zheng 
+>CHI 2012 - Chinese Painting and Calligraphy: Theory and Practice 
+L01-LEC(2702) 
+Mo,13:30,17:20
+Teaching C Bldg 103 
+Baizhong Zheng 
+>CLC 1001 - Practical Mandarin in Daily Situation 
+L01-LEC(2655) 
+Tu,10:30,11:20
+Zhi Xin Bldg 309 
+ÍõÇï³¿ 
+T01-TUT(2656) 
+Th,10:30,11:20
+Zhi Xin Bldg 309 
+ÍõÇï³¿ 
+>CLC 1201 - Basic Chinese 
+L01-LEC(2657) 
+Tu,10:30,11:50
+Teaching D Bldg 203 
+ÃÎ±ò Áõ 
+T01-TUT(2658) 
+Th,10:30,11:50
+Zhi Xin Bldg 310 
+ÃÎ±ò Áõ 
+>CLC 1301 - Intermediate Chinese 
+L01-LEC(2659) 
+Tu,13:00,14:20
+Teaching D Bldg 115 
+ÍõÇï³¿ 
+T01-TUT(2660) 
+Fr,10:30,11:50
+Zhi Xin Bldg 309 
+ÍõÇï³¿ 
+>CLC 1401 - Advanced Chinese 
+L01-LEC(2661) 
+Tu,13:00,14:20
+Teaching D Bldg 203 
+ÃÎ±ò Áõ 
+T01-TUT(2662) 
+Th,13:00,14:20
+Zhi Xin Bldg 309 
+ÃÎ±ò Áõ 
+>CSC 1001 - Introduction to Computer Science: Programming Methodology 
+L01-LEC(2305) 
+Mo,15:30,16:50,We,15:30,16:50
+Administration Bldg E205 
+ÕÔ¿¡»ª (ZHAO, Junhua) 
+L02-LEC(2306) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 103 
+Xiao Guang Han 
+L03-LEC(2307) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching D Bldg 103 
+Xiao Guang Han 
+L04-LEC(2308) 
+Tu,17:30,18:50,Th,17:30,18:50
+Teaching B Bldg 103 
+çâ ²Ì 
+L05-LEC(2309) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching D Bldg 103 
+Li Zhe Zhu 
+L06-LEC(2310) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching D Bldg 103 
+Li Zhe Zhu 
+T01-TUT(2311) 
+Tu,18:00,18:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T02-TUT(2312) 
+Tu,19:00,19:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T03-TUT(2313) 
+Tu,20:00,20:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T04-TUT(2314) 
+We,18:00,18:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T05-TUT(2315) 
+We,19:00,19:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T06-TUT(2316) 
+Mo,20:00,20:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T07-TUT(2317) 
+Th,18:00,18:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T08-TUT(2318) 
+Th,19:00,19:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T09-TUT(2319) 
+Th,20:00,20:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T10-TUT(2320) 
+We,20:00,20:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T11-TUT(2321) 
+Mo,19:00,19:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T12-TUT(2322) 
+Fr,20:00,20:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T13-TUT(2323) 
+Fr,14:00,14:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+T14-TUT(2324) 
+Fr,15:00,15:50
+Teaching C Bldg 209 
+³Â±þÁÖ (CHEN, Ben) 
+>CSC 1002 - Computational Laboratory 
+L01-LEC(2325) 
+Mo,13:00,13:50
+Teaching B Bldg 103 
+Kinley Lam 
+L02-LEC(2326) 
+Mo,14:30,15:20
+Teaching B Bldg 103 
+Kinley Lam 
+L03-LEC(2327) 
+Mo,16:00,16:50
+Teaching B Bldg 103 
+Kinley Lam 
+L04-LEC(2328) 
+We,13:00,13:50
+Teaching B Bldg 103 
+Kinley Lam 
+L05-LEC(2329) 
+We,14:30,15:20
+Teaching B Bldg 103 
+Kinley Lam 
+T01-TUT(2330) 
+Mo,18:00,19:50
+Teaching D Bldg 314 
+Grace Wang 
+T02-TUT(2331) 
+Tu,18:00,19:50
+Teaching D Bldg 314 
+Grace Wang 
+T03-TUT(2332) 
+We,18:00,19:50
+Teaching D Bldg 314 
+Grace Wang 
+T04-TUT(2333) 
+Th,18:00,19:50
+Teaching D Bldg 314 
+Grace Wang 
+T05-TUT(2334) 
+Fr,18:00,19:50
+Teaching D Bldg 314 
+ÕÔ»À (ZHAO, Huan) 
+T06-TUT(2335) 
+Mo,18:00,19:50
+Teaching D Bldg 414 
+ÕÔ»À (ZHAO, Huan) 
+T07-TUT(2336) 
+Tu,18:00,19:50
+Teaching D Bldg 414 
+ÕÔ»À (ZHAO, Huan) 
+T08-TUT(2337) 
+We,18:00,19:50
+Teaching D Bldg 414 
+ÕÔ»À (ZHAO, Huan) 
+T09-TUT(2338) 
+Th,18:00,19:50
+Teaching D Bldg 414 
+Íõ³É½® (WANG, Chengjiang) 
+T10-TUT(2339) 
+Fr,18:00,19:50
+Teaching D Bldg 414 
+Íõ³É½® (WANG, Chengjiang) 
+T11-TUT(2340) 
+Th,15:00,16:50
+Teaching D Bldg 414 
+Íõ³É½® (WANG, Chengjiang) 
+T12-TUT(2341) 
+Tu,15:00,16:50
+Teaching D Bldg 414 
+Jikun Guan 
+T13-TUT(2342) 
+Fr,08:30,10:20
+Teaching D Bldg 314 
+Jikun Guan 
+T14-TUT(2343) 
+Fr,11:00,12:50
+Teaching D Bldg 314 
+Jikun Guan 
+>CSC 3002 - Introduction to Computer Science: Programming Paradigms 
+L01-LEC(2344) 
+We,08:30,09:50,Fr,08:30,09:50
+Zhi Xin Bldg 111 
+Rui HUANG 
+L02-LEC(2345) 
+We,10:30,11:50,Fr,10:30,11:50
+Zhi Xin Bldg 111 
+Rui HUANG 
+T01-TUT(2346) 
+We,20:00,20:50
+Teaching D Bldg 314 
+ËïÇÕ²¨ (SUN, Qinbo), ÖìÃ÷º× (ZHU, Minghe), ÍõË§ (WANG, Shuai) 
+T02-TUT(2347) 
+Th,20:00,20:50
+Teaching D Bldg 314 
+ËïÇÕ²¨ (SUN, Qinbo), ÖìÃ÷º× (ZHU, Minghe), ÍõË§ (WANG, Shuai) 
+T03-TUT(2348) 
+Th,20:00,20:50
+Teaching D Bldg 414 
+ËïÇÕ²¨ (SUN, Qinbo), ÖìÃ÷º× (ZHU, Minghe), ÍõË§ (WANG, Shuai) 
+T04-TUT(2349) 
+Fr,20:00,20:50
+Teaching D Bldg 314 
+ËïÇÕ²¨ (SUN, Qinbo), ÖìÃ÷º× (ZHU, Minghe), ÍõË§ (WANG, Shuai) 
+T05-TUT(2350) 
+Fr,20:00,20:50
+Teaching D Bldg 414 
+ËïÇÕ²¨ (SUN, Qinbo), ÖìÃ÷º× (ZHU, Minghe), ÍõË§ (WANG, Shuai) 
+>CSC 3050 - Computer Architecture 
+L01-LEC(2751) 
+Mo,11:00,12:30,Th,11:00,12:30
+Cheng Dao Bldg 102 
+Chungyeh Ching 
+T01-TUT(2752) 
+Mo,18:00,19:00
+Teaching D Bldg 108 
+Ë§¿Ë·² (SHUAI, Kefan), ÂíØ¹çù (MA, Yuqi) 
+T02-TUT(2754) 
+Tu,18:00,19:00
+Teaching D Bldg 108 
+Ë§¿Ë·² (SHUAI, Kefan), ÂíØ¹çù (MA, Yuqi) 
+T03-TUT(2755) 
+Tu,19:00,20:00
+Teaching D Bldg 108 
+Ë§¿Ë·² (SHUAI, Kefan), ÂíØ¹çù (MA, Yuqi) 
+>CSC 3170 - Database System 
+L01-LEC(2354) 
+Tu,08:30,09:50,Th,08:30,09:50
+Zhi Xin Bldg 109 
+çâ ²Ì 
+T01-TUT(2355) 
+We,18:00,18:50
+Teaching D Bldg 203 
+Íõº£½õ (WANG, Haijin), Âí×Óè¡ (MA Zichen) 
+T02-TUT(2356) 
+Th,18:00,18:50
+Teaching D Bldg 203 
+Íõº£½õ (WANG, Haijin), Âí×Óè¡ (MA Zichen) 
+T03-TUT(2357) 
+Fr,18:00,18:50
+Teaching D Bldg 203 
+Íõº£½õ (WANG, Haijin), Âí×Óè¡ (MA Zichen) 
+>CSC 3180 - Fundamentals of Artificial Intelligence 
+L01-LEC(2358) 
+Th,13:00,13:50,Tu,13:00,14:50
+Zhi Xin Bldg 111 
+Da Peng Zhang 
+T01-TUT(2359) 
+We,18:00,18:50
+Teaching D Bldg 210 
+½¯»ªÁÒ (JIANG, Hualie), ÐíÈôÓÞ (XU, Ruoyu) 
+T02-TUT(2360) 
+Th,18:00,18:50
+Teaching D Bldg 210 
+½¯»ªÁÒ (JIANG, Hualie), ÐíÈôÓÞ (XU, Ruoyu) 
+T03-TUT(2361) 
+Fr,18:00,18:50
+Teaching D Bldg 210 
+½¯»ªÁÒ (JIANG, Hualie), ÐíÈôÓÞ (XU, Ruoyu) 
+>CSC 3185 - Introduction to Multimedia Systems 
+L01-LEC(2362) 
+Th,10:00,10:50,Tu,10:00,11:50
+Zhi Xin Bldg 110 
+Da Peng Zhang 
+T01-TUT(2363) 
+We,19:00,19:50
+Teaching D Bldg 212 
+Hong Liang Zhu 
+T02-TUT(2364) 
+Th,19:00,19:50
+Teaching D Bldg 212 
+Hong Liang Zhu 
+T03-TUT(2365) 
+Fr,19:00,19:50
+Teaching D Bldg 212 
+Hong Liang Zhu 
+>CSC 4001 - Software Engineering 
+L01-LEC(2366) 
+We,13:00,13:50,Mo,13:00,14:50
+Cheng Dao Bldg 104 
+Wenye LI 
+T01-TUT(2367) 
+Mo,18:00,18:50
+Teaching D Bldg 212 
+Susie Cheng 
+T02-TUT(2368) 
+Tu,18:00,18:50
+Teaching D Bldg 212 
+Susie Cheng 
+T03-TUT(2369) 
+We,18:00,18:50
+Teaching D Bldg 212 
+Susie Cheng 
+>CSC 4008 - Techniques for Data Mining 
+L01-LEC(2370) 
+Mo,08:30,09:50,We,08:30,09:50
+Administration Bldg E206 
+Hsien-Da Huang 
+T01-TUT(2371) 
+Tu,18:00,18:50
+Teaching D Bldg 301 
+ÍõÐÇ³¬ (WANG, Xingchao), ÍõÒóºÀ (WANG, Yinhao) 
+T02-TUT(2372) 
+We,18:00,18:50
+Teaching D Bldg 301 
+ÍõÐÇ³¬ (WANG, Xingchao), ÍõÒóºÀ (WANG, Yinhao) 
+T03-TUT(2373) 
+Th,18:00,18:50
+Teaching D Bldg 301 
+ÍõÐÇ³¬ (WANG, Xingchao), ÍõÒóºÀ (WANG, Yinhao) 
+>CSC 4150 - Mobile Computing with Internet of Things 
+L01-LEC(2374) 
+Mo,10:00,11:20,Tu,10:00,11:20
+Zhi Xin Bldg 102 
+Kai Hwang 
+T01-TUT(2375) 
+Mo,20:00,20:50
+Teaching A Bldg 101 
+ÖìÅåÅå (ZHU, Peipei) 
+>DMS 2030 - Operations Management 
+L01-LEC(2272) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching B Bldg 104 
+Ù¡ÊÀè´ 
+L02-LEC(2273) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching B Bldg 104 
+Duo Shi 
+L03-LEC(2274) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching B Bldg 104 
+Duo Shi 
+L04-LEC(2275) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching B Bldg 104 
+Duo Shi 
+>DMS 2051 - IT in Business Applications 
+L01-LEC(2276) 
+Mo,15:30,16:50,We,15:30,16:50
+Teaching B Bldg 104 
+Zhuolan Bao 
+L02-LEC(2277) 
+Mo,10:30,11:50,We,10:30,11:50
+Cheng Dao Bldg 101 
+Zhuolan Bao 
+L03-LEC(2278) 
+Mo,18:00,19:20,We,18:00,19:20
+Teaching B Bldg 104 
+Zhuolan Bao 
+T01-TUT(2279) 
+Tu,19:00,19:50
+Teaching C Bldg 208 
+Cina Yang 
+T02-TUT(2280) 
+Mo,20:00,20:50
+Teaching D Bldg 206 
+Cina Yang 
+T03-TUT(2281) 
+We,19:00,19:50
+Teaching C Bldg 208 
+Cina Yang 
+T04-TUT(2282) 
+We,20:00,20:50
+Teaching C Bldg 106 
+Cina Yang 
+T05-TUT(2283) 
+Fr,20:00,20:50
+Teaching D Bldg 206 
+Cina Yang 
+T06-TUT(2284) 
+Th,20:00,20:50
+Teaching D Bldg 206 
+Cina Yang 
+>DMS 3002 - Applied Probability and Stochastic Process in Business 
+L01-LEC(2641) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching C Bldg 103 
+Rui Chen 
+>DMS 3003 - Data Analytics and Decision Making 
+L01-LEC(2642) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching C Bldg 106 
+Ming Liu 
+T01-TUT(2643) 
+Tu,18:00,18:50
+Teaching C Bldg 206 
+ÍõÐûÜ² (WANG, Xuanyi), ÍõÏÍ 
+>ECO 1020 - Principles of Economics 
+L01-LEC(2458) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching B Bldg 104 
+ÖÓ×ÓÒã 
+T01-TUT(2459) 
+Tu,18:00,18:50
+Teaching C Bldg 414 
+Ö£±ù (ZHENG, Bing) 
+T02-TUT(2460) 
+Th,19:00,19:50
+Teaching C Bldg 414 
+Ö£±ù (ZHENG, Bing) 
+>ECO 2021 - Basic Macroeconomics 
+L01-LEC(1917) 
+Mo,10:30,11:50,We,10:30,11:50
+Administration Bldg E206 
+Wontae Han 
+T01-TUT(1918) 
+Tu,20:00,20:50
+Teaching C Bldg 103 
+ÍõÏÍ 
+T02-TUT(1919) 
+Mo,20:00,20:50
+Teaching C Bldg 103 
+ÍõÏÍ 
+>ECO 2121 - Basic Statistics 
+L01-LEC(1920) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching D Bldg 102 
+jieshuang he 
+L02-LEC(1921) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching D Bldg 102 
+Ming Liu 
+L03-LEC(1922) 
+Tu,15:00,16:20,Th,15:00,16:20
+Teaching D Bldg 102 
+jieshuang he 
+L04-LEC(1923) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching D Bldg 102 
+Ming Liu 
+L05-LEC(1924) 
+Fr,14:00,15:20,We,15:00,16:20
+Teaching D Bldg 102 
+jieshuang he 
+T01-TUT(1925) 
+Tu,18:00,18:50
+Teaching D Bldg 105 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÍõÐûÜ² (WANG, Xuanyi) 
+T02-TUT(1926) 
+Tu,19:00,19:50
+Teaching D Bldg 105 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÍõÐûÜ² (WANG, Xuanyi) 
+T03-TUT(1927) 
+We,18:00,18:50
+Teaching D Bldg 105 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÍõÐûÜ² (WANG, Xuanyi) 
+T04-TUT(1928) 
+We,19:00,19:50
+Teaching D Bldg 105 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÍõÐûÜ² (WANG, Xuanyi) 
+T05-TUT(1929) 
+Th,18:00,18:50
+Teaching D Bldg 105 
+ÍõÐûÜ² (WANG, Xuanyi), Ã×¼ÒÝæ 
+T06-TUT(1930) 
+Th,19:00,19:50
+Teaching D Bldg 105 
+ÍõÐûÜ² (WANG, Xuanyi), Ã×¼ÒÝæ 
+T07-TUT(1931) 
+Fr,18:00,18:50
+Teaching D Bldg 105 
+ÍõÐûÜ² (WANG, Xuanyi), Ã×¼ÒÝæ 
+T08-TUT(1932) 
+Fr,19:00,19:50
+Teaching D Bldg 105 
+ÍõÐûÜ² (WANG, Xuanyi), Ã×¼ÒÝæ 
+T09-TUT(1933) 
+We,18:00,18:50
+Teaching C Bldg 206 
+ÍõÐûÜ² (WANG, Xuanyi), Ã×¼ÒÝæ 
+T10-TUT(1934) 
+Th,18:00,18:50
+Teaching C Bldg 206 
+ÍõÐûÜ² (WANG, Xuanyi), Ã×¼ÒÝæ 
+>ECO 3011 - Intermediate Microeconomic Theory 
+L01-LEC(2122) 
+Mo,13:00,14:20,We,13:00,14:20
+Cheng Dao Bldg 102 
+Áõ·æ (LIU, Feng) 
+L02-LEC(2123) 
+Mo,15:30,16:50,We,15:30,16:50
+Cheng Dao Bldg 102 
+Áõ·æ (LIU, Feng) 
+T01-TUT(2124) 
+Tu,18:00,18:50
+Teaching D Bldg 206 
+ÄôÏþ½à (NIE, Xiaojie) 
+T02-TUT(2125) 
+We,19:00,19:50
+Teaching D Bldg 206 
+ÄôÏþ½à (NIE, Xiaojie) 
+T03-TUT(2126) 
+Tu,19:00,19:50
+Teaching D Bldg 206 
+ÄôÏþ½à (NIE, Xiaojie) 
+T04-TUT(2127) 
+Th,18:00,18:50
+Teaching D Bldg 206 
+ÄôÏþ½à (NIE, Xiaojie) 
+>ECO 3021 - Intermediate Macroeconomic Theory 
+L01-LEC(2187) 
+Tu,15:30,16:50,Th,15:30,16:50
+Cheng Dao Bldg 102 
+Ð»´Ï (XIE, Cong) 
+L02-LEC(2188) 
+Mo,08:30,09:50,We,08:30,09:50
+Cheng Dao Bldg 102 
+Ð»´Ï (XIE, Cong) 
+T01-TUT(2189) 
+Tu,19:00,19:50
+Zhi Xin Bldg 101 
+Xiaojie Li, Yanghui Zhang 
+T02-TUT(2190) 
+Th,18:00,18:50
+Zhi Xin Bldg 101 
+Xiaojie Li, Yanghui Zhang 
+T03-TUT(2191) 
+Tu,20:00,20:50
+Zhi Xin Bldg 101 
+Xiaojie Li, Yanghui Zhang 
+T04-TUT(2192) 
+Th,20:00,20:50
+Zhi Xin Bldg 101 
+Xiaojie Li, Yanghui Zhang 
+>ECO 3110 - Behavioral Economics 
+L01-LEC(2711) 
+Mo,13:30,14:50,Tu,13:30,14:50
+Teaching A Bldg 302 
+Xiaojian Zhao 
+>ECO 3121 - Introductory Econometrics 
+L01-LEC(2128) 
+Th,08:30,09:50,Fr,08:30,09:50
+Cheng Dao Bldg 102 
+¶¡Ò» (DING, Yi) 
+L02-LEC(2129) 
+Th,10:00,11:20,Fr,10:00,11:20
+Cheng Dao Bldg 102 
+¶¡Ò» (DING, Yi) 
+L03-LEC(2130) 
+Th,14:00,15:20,Fr,14:00,15:20
+Cheng Dao Bldg 102 
+¶¡Ò» (DING, Yi) 
+T01-TUT(2131) 
+Th,18:00,18:50
+Zhi Ren Bldg 206 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÕÅæºæÂ (ZHANG, Jingyuan) 
+T02-TUT(2132) 
+Fr,18:00,18:50
+Zhi Ren Bldg 206 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÕÅæºæÂ (ZHANG, Jingyuan) 
+T03-TUT(2133) 
+Th,19:00,19:50
+Zhi Ren Bldg 206 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÕÅæºæÂ (ZHANG, Jingyuan) 
+T04-TUT(2134) 
+Fr,18:00,18:50
+Zhi Ren Bldg 206 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÕÅæºæÂ (ZHANG, Jingyuan) 
+T05-TUT(2135) 
+Fr,19:00,19:50
+Zhi Ren Bldg 206 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÕÅæºæÂ (ZHANG, Jingyuan) 
+T06-TUT(2136) 
+Fr,20:00,20:50
+Zhi Ren Bldg 206 
+Ò¶ÇÇÖÎ (YE, qiaozhi), ÕÅæºæÂ (ZHANG, Jingyuan) 
+>ECO 3230 - Economic Analysis of Law and Human Behavior 
+L01-LEC(2485) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching A Bldg 302 
+×¯ Áõ 
+L02-LEC(2486) 
+Mo,15:00,16:30,We,15:00,16:30
+Teaching A Bldg 302 
+×¯ Áõ 
+>ECO 4010 - Advanced Microeconomics 
+L01-LEC(2193) 
+Mo,13:30,14:50,We,13:30,14:50
+Zhi Xin Bldg 101 
+Yangbo SONG 
+T01-TUT(2194) 
+Mo,20:00,20:50
+Teaching D Bldg 107 
+Îâ³¬ 
+>ECO 4020 - Advanced Macroeconomics 
+L01-LEC(2195) 
+Fr,08:30,09:50,Th,17:30,18:50
+Teaching D Bldg 102 
+Zong Bo Huang 
+T01-TUT(2196) 
+Fr,18:00,18:50
+Teaching D Bldg 206 
+Xiaojie Li 
+>ECO 4901 - Guided Study in Current Economic Problems 
+L01-LEC(2197) 
+Th,08:30,09:20,Tu,08:30,10:20
+Teaching D Bldg 314 
+»Û»ª Ð» 
+L02-LEC(2198) 
+Th,15:30,16:20,Tu,15:30,17:20
+Teaching D Bldg 314 
+Áõ·æ (LIU, Feng) 
+>EIE 2050 - Digital Logic and Systems 
+L01-LEC(2476) 
+Mo,15:30,17:20,We,16:00,16:50
+Cheng Dao Bldg 101 
+Wenye LI 
+T01-TUT(2477) 
+Mo,20:00,20:50
+Teaching D Bldg 208 
+ÈçÀ¶ Íô 
+T02-TUT(2478) 
+We,19:00,19:50
+Teaching D Bldg 208 
+ÈçÀ¶ Íô 
+>EIE 2810 - Digital Systems Design Laboratory 
+L01-LEC(2484) 
+Tu,08:30,11:20
+Research  Bldg A 207 
+Tin Lun Lam 
+>EIE 3001 - Signals and Systems 
+L01-LEC(2424) 
+We,14:30,15:50,Fr,14:30,15:50
+Cheng Dao Bldg 104 
+Junting Chen, Liang Wu 
+T01-TUT(2425) 
+We,20:00,20:50
+Teaching C Bldg 206 
+ÂíØ¹çù (MA, Yuqi) 
+T02-TUT(2426) 
+Fr,19:00,19:50
+Teaching C Bldg 206 
+ÂíØ¹çù (MA, Yuqi) 
+>EIE 3080 - Microprocessors and Computer Systems 
+L01-LEC(2427) 
+Mo,15:30,16:50,We,15:30,16:50
+Teaching B Bldg 102 
+Marco Ho 
+T01-TUT(2428) 
+We,19:00,19:50
+Teaching D Bldg 301 
+ÖÜÁ¢¹ã (ZHOU, Liguang), Â³è¤ (LU Yu) 
+T02-TUT(2429) 
+Mo,18:00,18:50
+Teaching D Bldg 301 
+ÖÜÁ¢¹ã (ZHOU, Liguang), Â³è¤ (LU Yu) 
+T03-TUT(2430) 
+Tu,20:00,20:50
+Teaching D Bldg 301 
+ÖÜÁ¢¹ã (ZHOU, Liguang), Â³è¤ (LU Yu) 
+>EIE 3810 - Microprocessor System Design Laboratory 
+L01-LEC(2431) 
+Tu,15:30,18:20
+Research  Bldg A 207 
+Tin Lun Lam 
+>EIE 4003 - Wireless Communication Systems 
+L01-LEC(2432) 
+We,14:00,15:20,Fr,14:00,15:20
+Zhi Ren Bldg 206 
+ÕÅ×Ý»Ô (CHANG, Tsunghui) 
+T01-TUT(2433) 
+Th,19:00,19:50
+Teaching D Bldg 208 
+ÇØÔóîÚ (QIN, Zeyu) 
+T02-TUT(2434) 
+Fr,19:00,19:50
+Teaching D Bldg 208 
+ÇØÔóîÚ (QIN, Zeyu) 
+>EIE 4020 - Telecommunication Switching and Network Systems 
+L01-LEC(2435) 
+Fr,10:30,11:20,Th,14:00,15:50
+Zhi Ren Bldg 421/422 
+
+T01-TUT(2436) 
+Fr,20:00,20:50
+Teaching A Bldg 108 
+Âí¿¥ (MA, Jun) 
+T02-TUT(2437) 
+Fr,18:00,18:50
+Teaching A Bldg 108 
+Âí¿¥ (MA, Jun) 
+>EIE 4512 - Digital Image Processing 
+L01-LEC(2666) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching A Bldg 207 
+Õò Àî 
+T01-TUT(2667) 
+Th,20:00,20:50
+Teaching A Bldg 207 
+±ó Ôø, ÇÕ Íõ 
+>ENE 3002 - Energy Science and Engineering Laboratory 
+L01-LEC(2298) 
+Tu,15:00,17:50
+Research  Bldg A 112 
+ÕÅÕÑÓî (ZHANG, Zhaoyu) 
+>ENE 3003 - Heat and Mass Transfer for Energy Systems 
+L01-LEC(2299) 
+We,08:30,09:50,Fr,08:30,09:50
+Teaching C Bldg 106 
+Abeynaike Arjan 
+T01-TUT(2300) 
+Th,18:00,18:50
+Teaching C Bldg 106 
+¼ÑêØ µ³ 
+>ENE 3005 - Electrochemical Energy Conversion 
+L01-LEC(2301) 
+We,14:00,15:20,Fr,14:00,15:20
+Teaching C Bldg 106 
+Abeynaike Arjan 
+T01-TUT(2302) 
+Fr,18:00,18:50
+Teaching C Bldg 106 
+Chunping Qi 
+>ENE 4001 - Green Engineering and Environmental Compliance 
+L01-LEC(2303) 
+Mo,10:00,11:20,We,10:00,11:20
+Teaching C Bldg 106 
+You-Hong David Pui 
+T01-TUT(2304) 
+Tu,18:00,18:50
+Teaching C Bldg 106 
+ÁÁ·Ò Åí 
+>ENE 4012 - Electricity market 
+L01-LEC(2669) 
+Th,08:30,09:50,We,15:30,16:50
+Teaching C Bldg 106 
+Jing Qiu 
+T01-TUT(2670) 
+Tu,19:00,19:50
+Teaching C Bldg 106 
+Jing Qiu, Áõ½ð½à (LIU, Jinjie) 
+>ENG 1002 - English for Academic Purposes (I) 
+L01-LEC(1935) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching D Bldg 108 
+Shuozhao Hou 
+L02-LEC(1936) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 206 
+Derong Cao 
+L03-LEC(1937) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching D Bldg 108 
+Xin Guo 
+L04-LEC(1938) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 108 
+Shuozhao Hou 
+L05-LEC(1939) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching D Bldg 108 
+Shuozhao Hou 
+L06-LEC(1940) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching D Bldg 108 
+Xin Guo 
+L07-LEC(1941) 
+Tu,15:00,16:20,Th,15:00,16:20
+Teaching D Bldg 108 
+Xin Guo 
+L08-LEC(1942) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching D Bldg 109 
+Kalanipua Armitage James 
+L09-LEC(1943) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 108 
+Shuozhao Hou 
+L10-LEC(1944) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching D Bldg 109 
+Yang Xiao 
+L11-LEC(1945) 
+Mo,15:00,16:20,We,15:00,16:20
+Teaching D Bldg 108 
+Xin Guo 
+L12-LEC(1946) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 109 
+Kalanipua Armitage James 
+L13-LEC(1947) 
+Mo,15:00,16:20,We,15:00,16:20
+Teaching D Bldg 109 
+Yang Xiao 
+L14-LEC(1948) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching D Bldg 312 
+John MORGAN-JAMES 
+L15-LEC(1949) 
+Tu,15:00,16:20,Th,15:00,16:20
+Teaching D Bldg 109 
+Yang Xiao 
+L16-LEC(1950) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 109 
+Kalanipua Armitage James 
+L17-LEC(1951) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching D Bldg 110 
+Melvin STERNE 
+L18-LEC(1952) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 206 
+Derong Cao 
+L19-LEC(1953) 
+Mo,15:00,16:20,We,15:00,16:20
+Teaching D Bldg 110 
+Ying Ying Xie 
+L20-LEC(1954) 
+Mo,15:00,16:20,We,15:00,16:20
+Teaching D Bldg 111 
+Ziwei Zhao 
+L21-LEC(1955) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching D Bldg 109 
+Kalanipua Armitage James 
+L22-LEC(1956) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 312 
+John MORGAN-JAMES 
+L23-LEC(1957) 
+Tu,15:00,16:20,Th,15:00,16:20
+Teaching D Bldg 110 
+Ying Ying Xie 
+L24-LEC(1958) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 110 
+Melvin STERNE 
+L25-LEC(1959) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching D Bldg 111 
+Yang Yang 
+L26-LEC(2761) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 310 
+Rong Yang 
+L27-LEC(1960) 
+Mo,15:00,16:20,We,15:00,16:20
+Teaching D Bldg 113 
+Derong Cao 
+L28-LEC(1961) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 110 
+Melvin STERNE 
+L29-LEC(1962) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching D Bldg 110 
+Melvin STERNE 
+L30-LEC(1963) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching D Bldg 109 
+Yang Xiao 
+L31-LEC(1964) 
+Tu,15:00,16:20,Th,15:00,16:20
+Teaching D Bldg 111 
+Ziwei Zhao 
+L32-LEC(1965) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 111 
+Yang Yang 
+L33-LEC(1966) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching D Bldg 113 
+ÀèÃ÷ Áõ 
+L34-LEC(2758) 
+Mo,15:00,16:20,We,15:00,16:20
+Teaching D Bldg 310 
+ÀèÃ÷ Áõ 
+L35-LEC(1967) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching D Bldg 110 
+Ying Ying Xie 
+L36-LEC(1968) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 111 
+Yang Yang 
+L37-LEC(1969) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching D Bldg 111 
+Yang Yang 
+L38-LEC(1970) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching D Bldg 110 
+Ying Ying Xie 
+L39-LEC(1971) 
+Tu,15:00,16:20,Th,15:00,16:20
+Teaching D Bldg 113 
+Derong Cao 
+L40-LEC(2760) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 310 
+Rong Yang 
+L41-LEC(1972) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching D Bldg 111 
+Ziwei Zhao 
+L42-LEC(1973) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 113 
+ÀèÃ÷ Áõ 
+L43-LEC(1974) 
+Mo,15:00,16:20,We,15:00,16:20
+Teaching D Bldg 114 
+John MORGAN-JAMES 
+L44-LEC(1975) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 113 
+ÀèÃ÷ Áõ 
+L45-LEC(1976) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching D Bldg 113 
+Rong Yang 
+L46-LEC(1977) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching D Bldg 111 
+Ziwei Zhao 
+L47-LEC(2757) 
+Tu,15:00,16:20,Th,15:00,16:20
+Teaching D Bldg 310 
+Rong Yang 
+>ENG 1002T - English for Translation Program (II) 
+L01-LEC(2487) 
+Mo,14:30,15:50,We,14:30,15:50
+Teaching C Bldg 108 
+Wesley JAMES 
+L02-LEC(2488) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching C Bldg 108 
+Wesley JAMES 
+L03-LEC(2489) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching C Bldg 108 
+Kevin BRUESTLE 
+L04-LEC(2490) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching C Bldg 108 
+Kevin BRUESTLE 
+>ENG 2002B - English for Business Communication 
+L01-LEC(2491) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching C Bldg 204 
+Mark CRIMMINS 
+L02-LEC(2492) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching C Bldg 204 
+Mark CRIMMINS 
+L03-LEC(2493) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching C Bldg 204 
+Mark CRIMMINS 
+>ENG 2002S - English for Science & Engineering Communication 
+L01-LEC(2511) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 301 
+wailing law 
+L02-LEC(2512) 
+Mo,15:00,16:20,We,15:00,16:20
+Teaching C Bldg 203 
+Kin Chung Matthew BOOK 
+L03-LEC(2513) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching D Bldg 301 
+wailing law 
+>ENG 2002T - English for Translation Program IV 
+L01-LEC(2644) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching C Bldg 109 
+Mingyan Hong 
+L02-LEC(2645) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching C Bldg 109 
+Mingyan Hong 
+L03-LEC(2646) 
+Mo,10:30,11:50,We,10:30,11:50,ºÎÞ±,(HE, ,) 
+
+Teaching C Bldg 109 
+ºÎÞ± (HE, Wei) 
+>FIN 2010 - Financial Management 
+L01-LEC(2098) 
+Mo,15:00,16:20,We,15:00,16:20
+Zhi Xin Bldg 109 
+Shen ZHAO 
+L02-LEC(2099) 
+Mo,13:00,14:20,We,13:00,14:20
+Zhi Xin Bldg 109 
+Shen ZHAO 
+L03-LEC(2100) 
+Tu,15:00,16:20,Th,15:00,16:20
+Zhi Xin Bldg 109 
+Shuai Ye 
+L04-LEC(2101) 
+Tu,13:00,14:20,Th,13:00,14:20
+Zhi Xin Bldg 109 
+Hongqi LIU 
+L05-LEC(2102) 
+Tu,10:30,11:50,Th,10:30,11:50
+Zhi Xin Bldg 109 
+Hongqi LIU 
+L06-LEC(2103) 
+Tu,15:00,16:20,Th,15:00,16:20
+Zhi Xin Bldg 110 
+Hongqi LIU 
+L07-LEC(2104) 
+Tu,13:00,14:20,Th,13:00,14:20
+Zhi Xin Bldg 110 
+Shuai Ye 
+L08-LEC(2105) 
+Tu,17:30,19:00,Th,17:30,19:00
+Zhi Xin Bldg 110 
+Shuai Ye 
+T01-TUT(2106) 
+Mo,20:00,20:50
+Teaching C Bldg 414 
+Wenwen Ke, ÍõÐûÜ² (WANG, Xuanyi) 
+T02-TUT(2107) 
+Mo,19:00,19:50
+Teaching C Bldg 414 
+Wenwen Ke, ÍõÐûÜ² (WANG, Xuanyi) 
+T03-TUT(2108) 
+Mo,18:00,18:50
+Teaching C Bldg 414 
+Wenwen Ke, ÍõÐûÜ² (WANG, Xuanyi) 
+T04-TUT(2109) 
+Tu,19:00,19:50
+Teaching C Bldg 206 
+Wenwen Ke, ÍõÐûÜ² (WANG, Xuanyi) 
+T05-TUT(2110) 
+Tu,19:00,19:50
+Teaching C Bldg 414 
+Ruining Yue, ÍõÐûÜ² (WANG, Xuanyi) 
+T06-TUT(2111) 
+Tu,20:00,20:50
+Teaching C Bldg 414 
+Shirley Wu, ÍõÐûÜ² (WANG, Xuanyi) 
+T07-TUT(2112) 
+We,18:00,18:50
+Teaching C Bldg 414 
+Shirley Wu, ÍõÐûÜ² (WANG, Xuanyi) 
+T08-TUT(2113) 
+We,19:00,19:50
+Teaching C Bldg 414 
+Ruining Yue, ÍõÐûÜ² (WANG, Xuanyi) 
+T09-TUT(2114) 
+We,20:00,20:50
+Teaching C Bldg 414 
+Ruining Yue, ÍõÐûÜ² (WANG, Xuanyi) 
+T10-TUT(2115) 
+Fr,18:00,18:50
+Teaching C Bldg 414 
+Ruining Yue, ÍõÐûÜ² (WANG, Xuanyi) 
+T11-TUT(2116) 
+Th,20:00,21:00
+Teaching C Bldg 208 
+Shirley Wu, ÍõÐûÜ² (WANG, Xuanyi) 
+T12-TUT(2117) 
+Th,20:00,20:50
+Teaching C Bldg 414 
+Ruining Yue, ÍõÐûÜ² (WANG, Xuanyi) 
+T13-TUT(2118) 
+Fr,18:00,18:50
+Teaching C Bldg 208 
+Shirley Wu, ÍõÐûÜ² (WANG, Xuanyi) 
+T14-TUT(2119) 
+Fr,19:00,19:50
+Teaching C Bldg 414 
+Shirley Wu, ÍõÐûÜ² (WANG, Xuanyi) 
+T15-TUT(2120) 
+Fr,20:00,20:50
+Teaching C Bldg 414 
+Shirley Wu, ÍõÐûÜ² (WANG, Xuanyi) 
+T16-TUT(2121) 
+Th,18:00,18:50
+Teaching C Bldg 414 
+Ruining Yue, ÍõÐûÜ² (WANG, Xuanyi) 
+>FIN 2020 - Foundation of Finance 
+L01-LEC(2615) 
+Tu,08:30,09:50,Fr,10:30,11:50
+Teaching B Bldg 103 
+Chen Wen 
+L02-LEC(2616) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching B Bldg 102 
+Chen Wen 
+T01-TUT(2617) 
+We,18:00,18:50
+Teaching D Bldg 206 
+Mavis Gu 
+T02-TUT(2618) 
+Fr,19:00,19:50
+Teaching D Bldg 206 
+Mavis Gu 
+T03-TUT(2619) 
+We,19:00,19:50
+Teaching C Bldg 206 
+Mavis Gu 
+T04-TUT(2620) 
+Th,19:00,19:50
+Teaching C Bldg 206 
+Mavis Gu 
+>FIN 3070 - International Financial Management 
+L01-LEC(2613) 
+Mo,08:30,09:50,We,08:30,09:50
+Cheng Dao Bldg 101 
+Bohui Zhang, Dan Li 
+L02-LEC(2614) 
+Mo,15:00,16:20,We,15:00,16:20
+Cheng Dao Bldg 103 
+Bohui Zhang, Dan Li 
+>FIN 3080 - Investment Analysis and Portfolio Management 
+L01-LEC(2199) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching B Bldg 102 
+Jinfan Zhang 
+L02-LEC(2200) 
+Tu,15:00,16:20,Th,15:30,16:50
+Teaching B Bldg 104 
+Jinfan Zhang 
+L03-LEC(2201) 
+Tu,17:30,18:50,Th,19:00,20:20
+Teaching B Bldg 104 
+Jinfan Zhang 
+T01-TUT(2202) 
+We,20:00,20:50
+Teaching C Bldg 103 
+Dandan Li, Wenwen Ke 
+T02-TUT(2203) 
+Fr,20:00,20:50
+Teaching A Bldg 109 
+Dandan Li, Wenwen Ke 
+T03-TUT(2204) 
+Fr,20:00,20:50
+Teaching A Bldg 302 
+Dandan Li, Wenwen Ke 
+T04-TUT(2205) 
+Fr,19:00,19:50
+Teaching A Bldg 109 
+Dandan Li, Wenwen Ke 
+T05-TUT(2206) 
+Fr,20:00,20:50
+Teaching C Bldg 103 
+Dandan Li, Wenwen Ke 
+T06-TUT(2207) 
+We,20:00,20:50
+Teaching A Bldg 109 
+Dandan Li, Wenwen Ke 
+>FIN 4060 - Financial Markets in China and the World 
+L01-LEC(2208) 
+Tu,10:00,11:50,Th,10:00,11:50
+Teaching B Bldg 105 
+Marlene Amstad 
+L02-LEC(2209) 
+Tu,13:00,14:50,Th,13:00,14:50
+Teaching B Bldg 105 
+Marlene Amstad 
+>FIN 4110 - Options and Futures 
+L01-LEC(2210) 
+Tu,10:30,11:50,Th,10:30,11:50
+Cheng Dao Bldg 102 
+Zong Bo Huang 
+L02-LEC(2211) 
+Tu,08:30,09:50,Fr,10:30,11:50
+Cheng Dao Bldg 102 
+Zong Bo Huang 
+T01-TUT(2212) 
+We,18:00,18:50
+Teaching C Bldg 103 
+ÀîåüÑô (LI, Chloe) 
+T02-TUT(2213) 
+Th,19:00,19:50
+Teaching C Bldg 103 
+ÀîåüÑô (LI, Chloe) 
+T03-TUT(2214) 
+Fr,18:00,18:50
+Teaching C Bldg 103 
+ÀîåüÑô (LI, Chloe) 
+T04-TUT(2215) 
+Th,18:00,18:50
+Teaching C Bldg 103 
+ÀîåüÑô (LI, Chloe) 
+>FRN 1002 - French II 
+L01-LEC(2704) 
+Mo,15:30,16:50,We,15:30,16:50
+Teaching C Bldg 202 
+Jiaxing Zhou 
+>ERG 2050 - Introduction to Data Analytics 
+L01-LEC(2446) 
+Fr,08:30,09:20,Th,08:30,10:20
+Teaching B Bldg 102 
+Hongyuan Zha 
+T01-TUT(2447) 
+Th,19:00,19:50
+Teaching D Bldg 301 
+Àî½Ü (LI, Jie) 
+T02-TUT(2448) 
+Th,20:00,20:50
+Teaching D Bldg 301 
+Àî½Ü (LI, Jie) 
+T03-TUT(2449) 
+Fr,19:00,19:50
+Teaching D Bldg 301 
+Àî½Ü (LI, Jie) 
+>ERG 3020 - Web Analytics and Intelligence 
+L01-LEC(2450) 
+Tu,08:30,09:50,Mo,17:30,18:50
+Zhi Xin Bldg 110 
+Chee Wei Tan 
+T01-TUT(2451) 
+Tu,18:00,18:50
+Teaching D Bldg 202 
+Ñ¦¿­ÎÄ (XUE, Kaiwen) 
+T02-TUT(2452) 
+We,18:00,18:50
+Teaching D Bldg 202 
+Ñ¦¿­ÎÄ (XUE, Kaiwen) 
+T03-TUT(2453) 
+We,20:00,20:50
+Teaching D Bldg 202 
+Ñ¦¿­ÎÄ (XUE, Kaiwen) 
+>ERG 3033 - Critical reading of data science publications 
+L01-LEC(2668) 
+Th,10:00,10:50,Fr,10:00,10:50,Tu,18:00,19:50
+Teaching A Bldg 104 
+Margit Burmeister 
+>GNB 2003 - Genetics 
+L01-LEC(2577) 
+Tu,13:30,14:50,Th,13:30,14:50
+Teaching D Bldg 211 
+Goran Stjepanovic 
+T01-TUT(2578) 
+Tu,18:00,18:50
+Teaching D Bldg 107 
+ÂóÆôÓî (MAI, Qiyu) 
+>GNB 2005 - Computational Biology 
+L01-LEC(2579) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching D Bldg 107 
+JK Hwang 
+T01-TUT(2580) 
+We,18:00,18:50
+Teaching D Bldg 211 
+Jikun Guan 
+>GNB 3003 - Protein Structure Analysis and Proteomics 
+L01-LEC(2583) 
+Tu,10:00,11:20,Th,10:00,11:20
+Teaching D Bldg 211 
+Goran Stjepanovic 
+T01-TUT(2584) 
+We,19:00,19:50
+Teaching D Bldg 211 
+³Â¸û (CHEN, Geng) 
+>GER 1002 - German II 
+L01-LEC(2703) 
+Mo,15:30,16:50,We,15:30,16:50
+Teaching A Bldg 106 
+Kevin BRUESTLE 
+>GEA 2000 - Modern Chinese History and Culture 
+L01-LEC(2137) 
+Tu,13:00,14:50
+Cheng Dao Bldg 103 
+Qin CHEN 
+L02-LEC(2138) 
+Tu,08:30,10:20
+Teaching D Bldg 305 
+Chang Liu 
+L03-LEC(2139) 
+Mo,13:00,14:50
+Cheng Dao Bldg 103 
+Yong Chang Peng 
+L04-LEC(2140) 
+Tu,15:00,16:50
+Cheng Dao Bldg 103 
+ÀîäìÓê (LI, Xiaoyu) 
+L05-LEC(2141) 
+Mo,08:30,10:20
+Cheng Dao Bldg 103 
+ÕÔÈï¾ê (ZHAO, Ruijuan) 
+T01-TUT(2142) 
+Th,08:30,10:20
+Teaching D Bldg 212 
+Chang Liu 
+T02-TUT(2143) 
+Fr,08:30,10:20
+Teaching D Bldg 212 
+Chang Liu 
+T03-TUT(2144) 
+Th,13:00,14:50
+Teaching D Bldg 107 
+Qin CHEN 
+T04-TUT(2145) 
+Fr,14:00,15:50
+Teaching D Bldg 107 
+Qin CHEN 
+T05-TUT(2146) 
+We,13:00,14:50
+Teaching D Bldg 105 
+Yong Chang Peng 
+T06-TUT(2147) 
+We,15:30,17:20
+Teaching D Bldg 105 
+Yong Chang Peng 
+T07-TUT(2148) 
+Fr,14:00,15:50
+Teaching D Bldg 105 
+Yong Chang Peng 
+T08-TUT(2149) 
+Fr,10:30,12:20
+Teaching D Bldg 105 
+Yong Chang Peng 
+T09-TUT(2150) 
+Fr,10:30,12:20
+Teaching D Bldg 304 
+ÀîäìÓê (LI, Xiaoyu) 
+T10-TUT(2151) 
+Fr,14:00,15:50
+Teaching D Bldg 304 
+ÀîäìÓê (LI, Xiaoyu) 
+T11-TUT(2152) 
+Th,13:00,14:50
+Teaching D Bldg 304 
+ÀîäìÓê (LI, Xiaoyu) 
+T12-TUT(2153) 
+Th,15:30,17:20
+Teaching D Bldg 304 
+ÀîäìÓê (LI, Xiaoyu) 
+T13-TUT(2154) 
+We,08:30,10:20
+Teaching C Bldg 204 
+ÕÔÈï¾ê (ZHAO, Ruijuan) 
+T14-TUT(2155) 
+We,13:00,14:50
+Teaching C Bldg 204 
+ÕÔÈï¾ê (ZHAO, Ruijuan) 
+T15-TUT(2156) 
+Fr,14:00,15:50
+Teaching C Bldg 204 
+ÕÔÈï¾ê (ZHAO, Ruijuan) 
+T16-TUT(2157) 
+Fr,08:30,10:20
+Teaching C Bldg 204 
+ÕÔÈï¾ê (ZHAO, Ruijuan) 
+>GEB 2003 - New Perspectives from Archeology on the World 
+L01-LEC(2461) 
+Mo,18:00,19:50
+Teaching C Bldg 206 
+Qin CHEN 
+T01-TUT(2462) 
+We,08:30,10:20
+Teaching D Bldg 107 
+Qin CHEN, Yolanda Wang 
+T02-TUT(2463) 
+Fr,08:30,10:20
+Teaching D Bldg 107 
+Qin CHEN, Yolanda Wang 
+>GEB 2112 - Theory of Knowledge 
+L01-LEC(2694) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching C Bldg 103 
+Qin Wang 
+>GEB 2202 - Our Dynamic Earth 
+L01-LEC(2672) 
+Mo,13:00,14:50
+Zhi Xin Bldg 102 
+Xuran Zuo 
+T01-TUT(2673) 
+We,13:00,14:50
+Teaching A Bldg 106 
+Xuran Zuo, Yolanda Wang 
+T02-TUT(2674) 
+Fr,14:00,15:50
+Teaching A Bldg 106 
+Xuran Zuo, Yolanda Wang 
+T03-TUT(2675) 
+Fr,10:30,12:20
+Teaching A Bldg 106 
+Xuran Zuo, Yolanda Wang 
+>GEB 2311 - Chemistry in Kitchen 
+L01-LEC(2529) 
+Tu,10:00,11:50
+Teaching C Bldg 208 
+Jihang Chen 
+T01-TUT(2530) 
+We,10:00,11:50
+Teaching C Bldg 208 
+Yolanda Wang, ÁÁ·Ò Åí 
+T02-TUT(2531) 
+Th,10:00,11:50
+Teaching C Bldg 208 
+Yolanda Wang, ÁÁ·Ò Åí 
+>GEB 2403 - Logic and Science 
+L01-LEC(2679) 
+Fr,10:00,11:20,We,15:30,16:50
+Teaching A Bldg 302 
+Â¬½õÃ÷ (LO, Tony) 
+>GEB 2501 - From sand to Apple - Introduction of Integrated Circuits 
+L01-LEC(2628) 
+Tu,08:30,10:20
+Zhi Xin Bldg 101 
+³ÂÞÈº¬ 
+T01-TUT(2629) 
+Th,08:30,10:20
+Cheng Dao Bldg 418 
+Yolanda Wang, ³ÂÞÈº¬ 
+T02-TUT(2630) 
+Fr,08:30,10:20
+Cheng Dao Bldg 418 
+Yolanda Wang, ³ÂÞÈº¬ 
+>GEB 2503 - Smart City Fundamentals 
+L01-LEC(2676) 
+Tu,10:30,12:20
+Teaching C Bldg 206 
+Ruizhi LIAO 
+T01-TUT(2677) 
+Th,10:30,12:20
+Teaching D Bldg 303 
+Ruizhi LIAO, Yolanda Wang 
+T02-TUT(2678) 
+Fr,10:30,12:20
+Teaching D Bldg 303 
+Ruizhi LIAO, Yolanda Wang 
+>GEB 3101 - Beginning Cosmetic Chemistry 
+L01-LEC(2648) 
+Tu,13:30,15:20
+Teaching C Bldg 414 
+æº ×Þ 
+T01-TUT(2649) 
+Th,13:30,15:20
+Teaching C Bldg 114 
+Yolanda Wang, æº ×Þ 
+T02-TUT(2650) 
+Fr,08:30,10:20
+Teaching C Bldg 114 
+Yolanda Wang, æº ×Þ 
+>GEC 2002 - Living Sociology 
+L01-LEC(2454) 
+Mo,13:00,14:50
+Teaching C Bldg 414 
+º«Óê³¿ (HAN, Yuchen) 
+T01-TUT(2455) 
+We,13:00,14:50
+Teaching C Bldg 209 
+º«Óê³¿ (HAN, Yuchen) 
+T02-TUT(2456) 
+We,15:00,16:50
+Teaching C Bldg 209 
+º«Óê³¿ (HAN, Yuchen) 
+>GEC 2105 - The Modern Social Sciences as History 
+L01-LEC(2680) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching C Bldg 414 
+·ëÏÈÏé (FENG, John) 
+>GEC 2402 - Rites and Rituals in Early Chinese Society 
+L01-LEC(2688) 
+Mo,10:30,12:20
+Teaching C Bldg 206 
+½ð·½Í¢ 
+T01-TUT(2689) 
+We,10:30,12:20
+Teaching C Bldg 110 
+½ð·½Í¢ 
+T02-TUT(2690) 
+We,15:00,16:50
+Teaching C Bldg 110 
+½ð·½Í¢ 
+>GEC 3101 - Adventures In Ideas: Intellectual Life in the United States since 1865 
+L01-LEC(2467) 
+Mo,08:30,10:20
+Teaching C Bldg 208 
+Gregory Jones-Katz 
+T01-TUT(2468) 
+We,08:30,10:20
+Teaching D Bldg 309 
+Gregory Jones-Katz 
+T02-TUT(2469) 
+Fr,08:30,10:20
+Teaching D Bldg 309 
+Gregory Jones-Katz 
+>GEC 3401 - Society, Development and Inequalities 
+L01-LEC(2464) 
+Tu,08:30,10:20
+Teaching C Bldg 414 
+Aurelien BOUCHER 
+T01-TUT(2465) 
+Th,08:30,10:20
+Teaching D Bldg 311 
+Aurelien BOUCHER 
+T02-TUT(2466) 
+Fr,08:30,10:20
+Teaching D Bldg 311 
+Aurelien BOUCHER 
+>GEC 3403 - The Anthropology of Contemporary Culture 
+L01-LEC(2631) 
+Tu,13:00,14:50
+Teaching D Bldg 105 
+Gautam Ghosh 
+T01-TUT(2632) 
+Th,13:00,14:50
+Teaching A Bldg 107 
+Gautam Ghosh 
+T02-TUT(2633) 
+Th,15:00,16:50
+Teaching A Bldg 107 
+Gautam Ghosh 
+>GEC 3404 - Families and Modernities 
+L01-LEC(2651) 
+Tu,08:30,10:20,Th,08:30,10:20
+Teaching D Bldg 105 
+Gautam Ghosh 
+>GEC 3405 - To Eat, or Not to Eat?Sociology of Food 
+L01-LEC(2681) 
+Tu,15:00,16:50
+Administration Bldg E210 
+Xue Shi Li 
+T01-TUT(2682) 
+Th,15:00,16:50
+Teaching D Bldg 203 
+Xue Shi Li 
+T02-TUT(2683) 
+Th,10:30,12:20
+Teaching D Bldg 203 
+Xue Shi Li 
+T03-TUT(2684) 
+Fr,14:00,15:50
+Teaching D Bldg 203 
+Xue Shi Li 
+>GEC 3406 - Women in Twentieth-Century China: a Social History 
+L01-LEC(2685) 
+Tu,15:00,16:50
+Teaching A Bldg 109 
+Chang Liu 
+T01-TUT(2686) 
+Th,15:00,16:50
+Teaching A Bldg 109 
+Chang Liu 
+T02-TUT(2687) 
+Fr,14:00,15:50
+Teaching A Bldg 109 
+Chang Liu 
+>GED 2002 - Decision-making: An art of politics 
+L01-LEC(2457) 
+Mo,15:30,16:50,We,15:30,16:50
+Teaching B Bldg 105 
+·ëÏÈÏé (FENG, John) 
+>GED 2003 - Gender Matters: Gender and Sexuality in Contemporary Society 
+L01-LEC(2470) 
+Tu,19:00,20:50
+Cheng Dao Bldg 208 
+º«Óê³¿ (HAN, Yuchen) 
+T01-TUT(2471) 
+Th,13:00,14:50
+Teaching C Bldg 209 
+º«Óê³¿ (HAN, Yuchen) 
+T02-TUT(2472) 
+Th,15:00,16:50
+Teaching C Bldg 209 
+º«Óê³¿ (HAN, Yuchen) 
+>GED 2103 - Philosophy and the Meaning of Life 
+L01-LEC(2634) 
+Tu,10:30,12:20
+Teaching D Bldg 105 
+Lucas Scripter 
+T01-TUT(2635) 
+Th,10:30,12:20
+Teaching D Bldg 311 
+Lucas Scripter 
+T02-TUT(2636) 
+Fr,10:30,12:20
+Teaching D Bldg 311 
+Lucas Scripter 
+>GED 2201 - Gods and Men¡ª¡ªGreek Myth and Ethics 
+L01-LEC(2473) 
+Tu,08:30,10:20
+Teaching D Bldg 208 
+Xiao Zhen CHEN 
+T01-TUT(2474) 
+Th,08:30,10:20
+Teaching D Bldg 208 
+Xiao Zhen CHEN 
+T02-TUT(2475) 
+Fr,14:00,15:50
+Teaching D Bldg 208 
+Xiao Zhen CHEN 
+>GED 2202 - Philosophy of Religion 
+L01-LEC(2638) 
+We,15:00,16:50
+Teaching D Bldg 206 
+Thomas CARROLL 
+T01-TUT(2639) 
+Fr,10:00,11:50
+Teaching D Bldg 312 
+Thomas CARROLL 
+T02-TUT(2640) 
+Th,15:00,16:50
+Teaching D Bldg 312 
+Thomas CARROLL 
+>GED 2401 - A Century of Film Art 
+L01-LEC(2637) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching C Bldg 103 
+Wilson Frederick Booth 
+>GED 3307 - Understanding Chinese Classical Drama 
+L01-LEC(2532) 
+Mo,10:30,12:20
+Zhi Xin Bldg 110 
+ÁÁÁÁ ³Â 
+T01-TUT(2533) 
+We,10:30,12:20
+Teaching D Bldg 304 
+ÁÁÁÁ ³Â 
+T02-TUT(2534) 
+We,15:00,16:50
+Teaching D Bldg 304 
+ÁÁÁÁ ³Â 
+>GED 3308 - Man and Society in Western and Chinese Science Fiction 
+L01-LEC(2691) 
+Tu,13:00,14:50
+Zhi Xin Bldg 101 
+Kuanyen Liu 
+T01-TUT(2692) 
+Th,13:00,14:50
+Teaching D Bldg 305 
+Kuanyen Liu 
+T02-TUT(2693) 
+Th,15:30,17:20
+Teaching D Bldg 305 
+Kuanyen Liu 
+>GED 3401 - The Videographic Essay: Media Criticism Through Sound and Image 
+L01-LEC(2652) 
+Mo,13:30,15:20
+Teaching D Bldg 314 
+Wilson Frederick Booth 
+T01-TUT(2653) 
+We,13:30,15:20
+Teaching D Bldg 303 
+Wilson Frederick Booth 
+T02-TUT(2654) 
+We,16:00,17:50
+Teaching D Bldg 303 
+Wilson Frederick Booth 
+>GFH 1000 - In Dialogue With Humanity 
+L01-LEC(2031) 
+Fr,13:00,13:50
+Teaching D Bldg 103 
+Christopher Kluz, Lucas Scripter 
+L02-LEC(2032) 
+Fr,13:00,13:50
+Teaching D Bldg 102 
+Aurelien BOUCHER 
+L03-LEC(2033) 
+Fr,13:00,13:50
+Teaching B Bldg 105 
+Kuanyen Liu 
+L04-LEC(2034) 
+Fr,13:00,13:50
+Teaching D Bldg 109 
+Thomas CARROLL 
+L05-LEC(2035) 
+Fr,13:00,13:50
+Teaching B Bldg 103 
+Qin Wang 
+L06-LEC(2036) 
+Fr,13:00,13:50
+Teaching B Bldg 102 
+µËÑïÖÛ 
+L07-LEC(2037) 
+Fr,13:00,13:50
+Cheng Dao Bldg 101 
+À×ÊËÎ° (LEI, Shiwei) 
+L08-LEC(2038) 
+Fr,13:00,13:50
+Cheng Dao Bldg 102 
+Xiao Zhen CHEN 
+T01-TUT(2039) 
+We,13:00,14:50
+Teaching D Bldg 309 
+µËÑïÖÛ 
+T02-TUT(2040) 
+We,15:30,17:20
+Teaching D Bldg 309 
+µËÑïÖÛ 
+T03-TUT(2041) 
+Th,13:00,14:50
+Teaching D Bldg 309 
+µËÑïÖÛ 
+T04-TUT(2042) 
+Th,15:30,17:20
+Teaching D Bldg 309 
+µËÑïÖÛ 
+T05-TUT(2043) 
+Tu,08:30,10:20
+Teaching D Bldg 310 
+À×ÊËÎ° (LEI, Shiwei) 
+T06-TUT(2044) 
+Tu,13:00,14:50
+Teaching D Bldg 310 
+À×ÊËÎ° (LEI, Shiwei) 
+T07-TUT(2045) 
+Th,08:30,10:20
+Teaching D Bldg 310 
+À×ÊËÎ° (LEI, Shiwei) 
+T08-TUT(2046) 
+Th,13:00,14:50
+Teaching D Bldg 310 
+À×ÊËÎ° (LEI, Shiwei) 
+T09-TUT(2047) 
+Mo,08:30,10:20
+Teaching D Bldg 311 
+Lucas Scripter 
+T10-TUT(2048) 
+Mo,13:00,14:50
+Teaching D Bldg 311 
+Lucas Scripter 
+T11-TUT(2049) 
+Th,13:30,15:20
+Teaching C Bldg 210 
+Christopher Kluz 
+T12-TUT(2050) 
+Th,10:30,12:20
+Teaching C Bldg 210 
+Christopher Kluz 
+T13-TUT(2051) 
+We,13:00,14:50
+Teaching D Bldg 311 
+Aurelien BOUCHER 
+T14-TUT(2052) 
+We,08:30,10:20
+Teaching D Bldg 311 
+Aurelien BOUCHER 
+T15-TUT(2053) 
+We,08:30,10:20
+Teaching D Bldg 305 
+Kuanyen Liu 
+T16-TUT(2054) 
+We,13:00,14:50
+Teaching D Bldg 305 
+Kuanyen Liu 
+T17-TUT(2055) 
+Tu,10:00,11:50
+Teaching D Bldg 312 
+Thomas CARROLL 
+T18-TUT(2056) 
+Tu,13:00,14:50
+Teaching D Bldg 312 
+Thomas CARROLL 
+T19-TUT(2057) 
+Mo,13:00,14:50
+Teaching D Bldg 309 
+Qin Wang 
+T20-TUT(2058) 
+Mo,15:30,17:20
+Teaching D Bldg 309 
+Qin Wang 
+T21-TUT(2059) 
+Mo,10:30,12:20
+Teaching D Bldg 312 
+Xiao Zhen CHEN 
+T22-TUT(2060) 
+Mo,15:00,16:50
+Teaching D Bldg 312 
+Xiao Zhen CHEN 
+>GFN 1000 - In Dialogue With Nature 
+L01-LEC(2061) 
+Fr,13:00,13:50
+Cheng Dao Bldg 103 
+½ªÀöÀö 
+L02-LEC(2062) 
+Fr,13:00,13:50
+Cheng Dao Bldg 104 
+Â¬½õÃ÷ (LO, Tony) 
+L03-LEC(2063) 
+Fr,13:00,13:50
+Zhi Xin Bldg 111 
+ËÎºì±ò (SONG, Hongbin) 
+L04-LEC(2064) 
+Fr,13:00,13:50
+Zhi Xin Bldg 110 
+Ya Wen ZOU 
+L05-LEC(2065) 
+Fr,13:00,13:50
+Zhi Xin Bldg 109 
+æº ×Þ 
+L06-LEC(2066) 
+Fr,13:00,13:50
+Administration Bldg E205 
+Bei Cao 
+L07-LEC(2067) 
+Th,18:00,18:50
+Teaching B Bldg 104 
+Christopher Kluz 
+T01-TUT(2068) 
+We,13:30,15:20
+Teaching C Bldg 210 
+Christopher Kluz 
+T02-TUT(2069) 
+We,10:30,12:20
+Teaching C Bldg 210 
+Christopher Kluz 
+T03-TUT(2070) 
+We,08:30,10:20
+Teaching D Bldg 210 
+Â¬½õÃ÷ (LO, Tony) 
+T04-TUT(2071) 
+We,10:30,12:20
+Teaching D Bldg 210 
+Â¬½õÃ÷ (LO, Tony) 
+T05-TUT(2072) 
+Mo,10:30,12:20
+Teaching C Bldg 114 
+æº ×Þ 
+T06-TUT(2073) 
+Mo,13:30,15:20
+Teaching C Bldg 114 
+æº ×Þ 
+T07-TUT(2074) 
+We,08:30,10:20
+Teaching D Bldg 209 
+½ªÀöÀö 
+T08-TUT(2075) 
+We,15:30,17:20
+Teaching D Bldg 209 
+½ªÀöÀö 
+T09-TUT(2076) 
+Th,10:00,11:50
+Teaching D Bldg 209 
+½ªÀöÀö 
+T10-TUT(2077) 
+Th,13:00,14:50
+Teaching D Bldg 209 
+½ªÀöÀö 
+T11-TUT(2078) 
+Mo,15:30,17:20
+Teaching D Bldg 210 
+ËÎºì±ò (SONG, Hongbin) 
+T12-TUT(2079) 
+Mo,13:00,14:50
+Teaching D Bldg 210 
+ËÎºì±ò (SONG, Hongbin) 
+T13-TUT(2080) 
+We,15:30,17:20
+Teaching D Bldg 210 
+Bei Cao 
+T14-TUT(2081) 
+We,13:00,14:50
+Teaching D Bldg 210 
+Bei Cao 
+T15-TUT(2082) 
+Tu,15:30,17:20
+Teaching D Bldg 107 
+Ya Wen ZOU 
+T16-TUT(2083) 
+Tu,10:30,12:20
+Teaching D Bldg 107 
+Ya Wen ZOU 
+T17-TUT(2084) 
+Th,10:30,12:20
+Teaching D Bldg 107 
+Ya Wen ZOU 
+T18-TUT(2085) 
+Th,15:30,17:20
+Teaching D Bldg 107 
+Ya Wen ZOU 
+T19-TUT(2086) 
+Tu,13:00,14:50
+Teaching C Bldg 114 
+ËÎºì±ò (SONG, Hongbin) 
+T20-TUT(2087) 
+Tu,15:30,17:20
+Teaching C Bldg 114 
+ËÎºì±ò (SONG, Hongbin) 
+T21-TUT(2088) 
+Th,08:30,10:20
+Teaching C Bldg 114 
+Bei Cao 
+T22-TUT(2089) 
+Th,10:30,12:20
+Teaching C Bldg 114 
+Bei Cao 
+>HSS 1002 - The Making of the Modern World 
+L01-LEC(2537) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching A Bldg 302 
+Allen Grace Elizabeth 
+>HSS 1005 - General Psychology 
+L01-LEC(2538) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching A Bldg 106 
+Charles KIEFFER 
+L02-LEC(2539) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching A Bldg 106 
+Charles KIEFFER 
+L03-LEC(2540) 
+Tu,13:30,14:50,Th,13:30,14:50
+Teaching A Bldg 106 
+Charles KIEFFER 
+>HSS 1007 - Philosophy and Critical Thinking 
+L01-LEC(2541) 
+Fr,15:00,15:50,Tu,18:00,19:50
+Teaching B Bldg 102 
+Jin LEE 
+>ITE 1000 - Information Technology 
+L01-LEC(1907) 
+Tu,16:00,16:50
+Zhi Xin Bldg 111 
+Ruizhi LIAO 
+L02-LEC(1908) 
+Th,16:00,16:50
+Zhi Xin Bldg 111 
+Ruizhi LIAO 
+L03-LEC(1909) 
+Tu,11:00,11:50
+Cheng Dao Bldg 101 
+³ÂÞÈº¬ 
+L04-LEC(1910) 
+Tu,16:00,16:50
+Cheng Dao Bldg 101 
+³ÂÞÈº¬ 
+L05-LEC(1911) 
+Th,11:00,11:50
+Cheng Dao Bldg 101 
+³ÂÞÈº¬ 
+L06-LEC(1912) 
+Th,16:00,16:50
+Cheng Dao Bldg 101 
+³ÂÞÈº¬ 
+L07-LEC(1913) 
+Tu,09:00,09:50
+Cheng Dao Bldg 101 
+ÔÆÌìºã 
+L08-LEC(1914) 
+Th,09:00,09:50
+Cheng Dao Bldg 101 
+ÔÆÌìºã 
+L09-LEC(1915) 
+Tu,13:00,13:50
+Cheng Dao Bldg 101 
+ÔÆÌìºã 
+L10-LEC(1916) 
+Th,13:00,13:50
+Cheng Dao Bldg 101 
+ÔÆÌìºã 
+>IDE 4000 - Entrepreneurship Capstone 
+L01-LEC(2612) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching A Bldg 206 
+Ù¡ÊÀè´ 
+>MGT 2020 - Principles of Management 
+L01-LEC(2090) 
+Mo,08:30,09:50,We,08:30,09:50
+Cheng Dao Bldg 104 
+Lin Yi Zhang 
+L02-LEC(2091) 
+Mo,10:30,11:50,We,10:30,11:50
+Cheng Dao Bldg 104 
+Lin Yi Zhang 
+L03-LEC(2092) 
+Tu,08:30,09:50,Th,08:30,09:50
+Cheng Dao Bldg 104 
+Jiyoon Chung 
+L04-LEC(2093) 
+Tu,10:30,11:50,Th,10:30,11:50
+Cheng Dao Bldg 104 
+Jiyoon Chung 
+L05-LEC(2094) 
+Tu,13:00,14:20,Th,13:00,14:20
+Cheng Dao Bldg 104 
+Andy NIU 
+L06-LEC(2095) 
+Tu,15:30,16:50,Th,15:30,16:50
+Cheng Dao Bldg 104 
+Andy NIU 
+>MGT 3010 - Organizational Behavior 
+L01-LEC(2255) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching A Bldg 102 
+Cong Sun 
+L02-LEC(2256) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching A Bldg 101 
+Cong Sun 
+L03-LEC(2257) 
+Mo,13:00,14:20,We,13:00,14:20
+Teaching A Bldg 101 
+Cong Sun 
+>MGT 3210 - Strategic Management 
+L01-LEC(2535) 
+Mo,13:00,14:20,We,13:00,14:20
+Zhi Xin Bldg 110 
+Feng Long Xiao 
+L02-LEC(2536) 
+Mo,10:30,11:50,We,10:30,11:50
+Zhi Xin Bldg 109 
+Feng Long Xiao 
+>MGT 4210 - Decision Making and Negotiation 
+L01-LEC(2621) 
+Mo,15:00,16:20,We,15:00,16:20
+Administration Bldg E206 
+Jiyoon Chung 
+>MGT 4230 - Innovation and Entrepreneurship 
+L01-LEC(2625) 
+Tu,08:30,09:50,Mo,18:00,19:20
+Administration Bldg E206 
+Lin Yi Zhang 
+>MKT 2010 - Marketing  Management 
+L01-LEC(2096) 
+Mo,08:30,09:50,We,08:30,09:50
+Zhi Xin Bldg 109 
+Qi Tian Ren 
+L02-LEC(2097) 
+Mo,13:00,14:20,We,13:00,14:20
+Cheng Dao Bldg 101 
+Lingjing ZHAN 
+>MKT 3020 - Consumer Behavior 
+L01-LEC(2258) 
+Mo,15:00,16:20,We,15:00,16:20
+Zhi Xin Bldg 102 
+Lingjing ZHAN 
+>MKT 3030 - Integrated Marketing Communication 
+L01-LEC(2259) 
+Mo,09:00,10:20,We,09:00,10:20
+Teaching C Bldg 206 
+Lingjing ZHAN 
+>MKT 3250 - Customer Relationship Management 
+L01-LEC(2671) 
+Fr,14:00,14:50,Mo,15:30,17:20
+Teaching C Bldg 206 
+Kin Nam Lau 
+>MKT 4040 - Strategic Marketing 
+L01-LEC(2260) 
+Th,13:00,13:50,Tu,13:00,14:50
+Teaching A Bldg 101 
+Stella SO 
+>MKT 4080 - Digital and Social Media Marketing Strategy 
+L01-LEC(2261) 
+Mo,10:30,11:50,We,10:30,11:50
+Zhi Ren Bldg 206 
+Qi Tian Ren 
+>MKT 4110 - Strategic Brand Management 
+L01-LEC(2262) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching C Bldg 206 
+Smart Powpaka 
+>MKT 4120 - Marketing Research 
+L01-LEC(2263) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching A Bldg 202 
+Smart Powpaka 
+>MKT 4220 - Big Data  Marketing 
+L01-LEC(2622) 
+Th,10:30,11:20,We,10:30,12:20
+Teaching A Bldg 101 
+Jian Min Jia 
+T01-TUT(2623) 
+Th,19:00,19:50
+Teaching C Bldg 106 
+Winnie Wei 
+T02-TUT(2624) 
+Fr,19:00,19:50
+Teaching C Bldg 106 
+Winnie Wei 
+>MSE 4005 - Nanoscale Materials 
+L01-LEC(2376) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching D Bldg 208 
+Qi Zhang 
+T01-TUT(2377) 
+We,18:00,18:50
+Teaching C Bldg 106 
+Shanshan Shang 
+>MAT 1002 - Calculus II 
+L01-LEC(2216) 
+Tu,10:00,11:20,Th,10:00,11:20
+Teaching B Bldg 103 
+Mario HUANG 
+L02-LEC(2217) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching B Bldg 103 
+Mario HUANG 
+L03-LEC(2218) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching B Bldg 103 
+Mario HUANG 
+L04-LEC(2219) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching B Bldg 103 
+Wing Ki Shum 
+L05-LEC(2220) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching B Bldg 103 
+Wing Ki Shum 
+T01-TUT(2221) 
+Mo,18:00,18:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T02-TUT(2222) 
+Mo,19:00,19:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T03-TUT(2223) 
+Tu,18:00,18:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T04-TUT(2224) 
+Tu,19:00,19:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T05-TUT(2225) 
+We,18:00,18:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T06-TUT(2226) 
+We,19:00,19:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T07-TUT(2227) 
+Th,18:00,18:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T08-TUT(2228) 
+Th,19:00,19:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T09-TUT(2229) 
+Fr,18:00,18:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T10-TUT(2230) 
+Fr,19:00,19:50
+Teaching A Bldg 107 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T11-TUT(2231) 
+Mo,18:00,18:50
+Teaching A Bldg 108 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T12-TUT(2232) 
+Tu,18:00,18:50
+Teaching A Bldg 108 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T13-TUT(2233) 
+We,18:00,18:50
+Teaching A Bldg 108 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+T14-TUT(2234) 
+Th,18:00,18:50
+Teaching A Bldg 108 
+Áõ¹ãìÚ (LIU, Guangyi), ÌÆÀöÆ½ (TANG, Liping), ÈçÀ¶ Íô, ÕÅÁ¬öÎ (ZHANG, Lianxin), Ã«¾­Î³ (MAO, Jingwei), Ì·²©ÔÊ (TAN, Boyun) 
+>MAT 2002 - Ordinary Differential Equations 
+L01-LEC(2235) 
+Mo,10:30,11:50,We,10:30,11:50
+Cheng Dao Bldg 103 
+Weiming Ni 
+T01-TUT(2236) 
+Mo,18:00,18:50
+Teaching A Bldg 106 
+ÁººÀ (LIANG, Hao), ÍõÀÖ³½ (WANG, Lechen) 
+T02-TUT(2237) 
+We,19:00,19:50
+Teaching A Bldg 108 
+ÁººÀ (LIANG, Hao), ÍõÀÖ³½ (WANG, Lechen) 
+T03-TUT(2238) 
+Tu,20:00,20:50
+Teaching A Bldg 108 
+ÁººÀ (LIANG, Hao), ÍõÀÖ³½ (WANG, Lechen) 
+T04-TUT(2790) 
+We,20:00,20:50
+Teaching A Bldg 105 
+ÁººÀ (LIANG, Hao), ÍõÀÖ³½ (WANG, Lechen) 
+>MAT 2040 - Linear Algebra 
+L01-LEC(2239) 
+Mo,13:00,14:20,We,13:00,14:20
+Zhi Xin Bldg 111 
+Tzong-Yi Lee 
+L02-LEC(2240) 
+Mo,15:00,16:20,We,15:00,16:20
+Zhi Xin Bldg 111 
+ÑîÉýºÆ (YANG, Shenghao) 
+L03-LEC(2241) 
+Th,08:30,09:50,Tu,09:00,10:20
+Zhi Xin Bldg 111 
+ÈÄ¹ã (RAO, Guang) 
+L04-LEC(2242) 
+Tu,10:30,11:50,Th,10:30,11:50
+Zhi Xin Bldg 111 
+ÈÄ¹ã (RAO, Guang) 
+T01-TUT(2243) 
+Tu,18:00,18:50
+Zhi Ren Bldg 419/420 
+
+T02-TUT(2244) 
+We,18:00,18:50
+Zhi Ren Bldg 419/420 
+
+T03-TUT(2245) 
+Tu,20:00,20:50
+Zhi Ren Bldg 419/420 
+
+T04-TUT(2246) 
+We,20:00,20:50
+Zhi Ren Bldg 419/420 
+
+T05-TUT(2247) 
+Tu,19:00,19:50
+Zhi Ren Bldg 419/420 
+
+T06-TUT(2248) 
+We,19:00,19:50
+Zhi Ren Bldg 419/420 
+
+T07-TUT(2249) 
+Th,19:00,19:50
+Zhi Ren Bldg 419/420 
+
+T08-TUT(2250) 
+Th,20:00,20:50
+Zhi Ren Bldg 419/420 
+
+>MAT 3006 - Real Analysis 
+L01-LEC(2585) 
+Mo,13:30,14:50,We,13:30,14:50
+Teaching C Bldg 208 
+Kayue WONG 
+T01-TUT(2586) 
+Tu,19:00,19:50,ÁøÎÄ, (LIU,enxua
+Teaching A Bldg 207 
+ÁøÎÄÐù (LIU, Wenxuan) 
+>MAT 3040 - Advanced Linear Algebra 
+L01-LEC(2663) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching A Bldg 101 
+Kayue WONG 
+T01-TUT(2664) 
+Tu,18:00,18:50
+Teaching A Bldg 207 
+ÕñöÎ Àî 
+T02-TUT(2665) 
+We,18:00,18:50
+Teaching A Bldg 207 
+ÕñöÎ Àî 
+>MAT 3220 - Optimization II 
+L01-LEC(2251) 
+Tu,15:30,16:50,Th,15:30,16:50
+Teaching B Bldg 105 
+Shuzhong ZHANG 
+T01-TUT(2252) 
+Tu,19:00,19:50
+Teaching A Bldg 106 
+Shuzhong ZHANG, Ö¾Èñ »Æ, Ïô½¨´Ï (XIAO, Jiancong) 
+T02-TUT(2253) 
+We,18:00,18:50
+Teaching A Bldg 106 
+Shuzhong ZHANG, Ö¾Èñ »Æ, Ïô½¨´Ï (XIAO, Jiancong) 
+T03-TUT(2254) 
+Th,18:00,18:50
+Teaching A Bldg 106 
+Shuzhong ZHANG, Ö¾Èñ »Æ, Ïô½¨´Ï (XIAO, Jiancong) 
+>MAT 3253 - Complex Variables 
+L01-LEC(2587) 
+We,13:00,13:50,Mo,13:00,14:50
+Zhi Ren Bldg 206 
+yutian li 
+T01-TUT(2588) 
+Tu,18:00,18:50
+Teaching D Bldg 208 
+ÀîÈóÌï (LI, Runtian) 
+T02-TUT(2589) 
+We,18:00,18:50
+Teaching D Bldg 208 
+ÀîÈóÌï (LI, Runtian) 
+>MAT 3280 - Probability Theory 
+L01-LEC(2590) 
+We,14:00,15:20,Fr,14:00,15:20
+Teaching B Bldg 105 
+Wing Ki Shum 
+T01-TUT(2591) 
+Th,19:00,19:50
+Teaching A Bldg 108 
+¶­ÑÒÑÒ (DONG, Yanyan) 
+T02-TUT(2592) 
+We,20:00,20:50
+Teaching A Bldg 108 
+¶­ÑÒÑÒ (DONG, Yanyan) 
+T03-TUT(2593) 
+Fr,19:00,19:50
+Teaching A Bldg 108 
+¶­ÑÒÑÒ (DONG, Yanyan) 
+>MAT 3300 - Mathematical Modelling 
+L01-LEC(2581) 
+We,10:00,10:50,Mo,10:00,11:50
+Teaching D Bldg 208 
+Gongqiu Zhang 
+T01-TUT(2582) 
+We,19:00,19:50
+Teaching C Bldg 106 
+ÍõÇìºØ (WANG, Qinghe) 
+>MAT 4002 - Introduction to Geometry and Topology 
+L01-LEC(2594) 
+Mo,15:30,16:50,We,15:30,16:50
+Teaching C Bldg 208 
+Kayue WONG 
+T01-TUT(2595) 
+Tu,20:00,20:50
+Teaching D Bldg 107 
+ÀîÈóÌï (LI, Runtian) 
+>MAT 4004 - Graph Theory 
+L01-LEC(2596) 
+We,11:00,12:30,Fr,14:00,15:30
+Zhi Ren Bldg 205 
+ÁºÃÀ¶ù (LEUNG, Janny) 
+T01-TUT(2597) 
+We,20:00,20:50
+Teaching A Bldg 107 
+ÕñöÎ Àî 
+T02-TUT(2598) 
+Th,20:00,20:50
+Teaching A Bldg 107 
+ÕñöÎ Àî 
+>MAT 4500 - Stochastic Differential Equation 
+L01-LEC(2599) 
+Tu,13:30,14:50,Th,13:30,14:50
+Zhi Ren Bldg 417/418 
+
+T01-TUT(2600) 
+Fr,18:00,18:50
+Teaching D Bldg 208 
+ÀîÔÀèª (LI, Yuejin) 
+T02-TUT(2601) 
+Th,18:00,18:50
+Teaching D Bldg 208 
+ÀîÔÀèª (LI, Yuejin) 
+>PED 1002 - Fitness and Health 
+>PHY 2001 - Electricity and Magnetism 
+L01-LEC(2264) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching B Bldg 105 
+ÖÜÑÞ (ZHOU Yan) 
+T01-TUT(2265) 
+Tu,19:00,19:50
+Teaching C Bldg 108 
+ÏÄ¾² (XIA, Jing), ÕÅÌì½¡ (ZHANG, Tianjian) 
+T02-TUT(2266) 
+Th,18:00,18:50
+Teaching C Bldg 108 
+ÏÄ¾² (XIA, Jing), ÕÅÌì½¡ (ZHANG, Tianjian) 
+T03-TUT(2267) 
+Th,19:00,19:50
+Teaching C Bldg 108 
+ÏÄ¾² (XIA, Jing), ÕÅÌì½¡ (ZHANG, Tianjian) 
+>PHY 3006 - Physics of Semiconductors Devices 
+L01-LEC(2268) 
+Tu,11:00,12:20,Mo,14:00,15:20
+Teaching A Bldg 109 
+Veng Cheong Lo 
+T01-TUT(2269) 
+We,18:00,18:50
+Teaching A Bldg 109 
+´ÞÓêÖÛ (CUI, Yuzhou) 
+>PHY 4221 - Quantum Mechanics 
+L01-LEC(2270) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching A Bldg 207 
+Xi Zhu 
+T01-TUT(2271) 
+We,19:00,19:50
+Teaching A Bldg 207 
+³Â±þÁÖ (CHEN, Ben) 
+>RMS 4001 - Simulation Methods for Risk Management and Finance 
+L01-LEC(2438) 
+Th,15:30,16:20,Tu,15:30,17:20
+Teaching D Bldg 103 
+Zhaoyuan Li 
+T01-TUT(2439) 
+We,19:00,19:50
+Cheng Dao Bldg 201 
+ÁõÕÙ (LIU, Zhao), ´÷Ó¯Ó¯ (DAI, Yingying) 
+T02-TUT(2440) 
+Th,19:00,19:50
+Cheng Dao Bldg 201 
+ÁõÕÙ (LIU, Zhao), ´÷Ó¯Ó¯ (DAI, Yingying) 
+T03-TUT(2441) 
+Fr,18:00,18:50
+Cheng Dao Bldg 201 
+ÁõÕÙ (LIU, Zhao), ´÷Ó¯Ó¯ (DAI, Yingying) 
+>RMS 4050 - Stochastic Calculus for Finance and Risk 
+L01-LEC(2442) 
+We,13:00,13:50,Mo,13:00,14:50
+Teaching B Bldg 105 
+Gongqiu Zhang 
+T01-TUT(2443) 
+Mo,18:00,18:50
+Teaching D Bldg 211 
+ÕÅî£ (ZHANG, Rui), ³Ì¼ÎîÚ (CHENG, Jiayu) 
+T02-TUT(2444) 
+Tu,19:00,19:50
+Teaching D Bldg 212 
+ÕÅî£ (ZHANG, Rui), ³Ì¼ÎîÚ (CHENG, Jiayu) 
+T03-TUT(2445) 
+Th,18:00,18:50
+Teaching D Bldg 212 
+ÕÅî£ (ZHANG, Rui), ³Ì¼ÎîÚ (CHENG, Jiayu) 
+>SPN 1002 - Spanish II 
+L01-LEC(2705) 
+Tu,15:00,16:20,Th,15:00,16:20
+Teaching A Bldg 207 
+John MORGAN-JAMES 
+>STA 2001 - Probability and Statistics I 
+L01-LEC(2378) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching B Bldg 202 
+³ÂÌìÊ¯ (CHEN, Tianshi) 
+L02-LEC(2379) 
+Tu,13:00,14:20,Th,13:00,14:20
+Teaching B Bldg 202 
+³ÂÌìÊ¯ (CHEN, Tianshi) 
+L03-LEC(2380) 
+Mo,15:30,16:50,We,15:30,16:50
+Teaching B Bldg 202 
+³ÂÌìÊ¯ (CHEN, Tianshi) 
+L04-LEC(2381) 
+Tu,08:30,09:50,Th,08:30,09:50
+Teaching B Bldg 202 
+Chek Hin Choi 
+L05-LEC(2382) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching B Bldg 202 
+Chek Hin Choi 
+T01-TUT(2383) 
+Mo,20:00,20:50
+Teaching A Bldg 310 
+Óî Íõ 
+T02-TUT(2384) 
+Tu,20:00,20:50
+Teaching A Bldg 310 
+Óî Íõ 
+T03-TUT(2385) 
+We,20:00,20:50
+Teaching A Bldg 310 
+Óî Íõ 
+T04-TUT(2386) 
+Th,18:00,18:50
+Teaching A Bldg 310 
+Óî Íõ 
+T05-TUT(2387) 
+Th,19:00,19:50
+Teaching A Bldg 310 
+Óî Íõ 
+T06-TUT(2388) 
+Mo,19:00,19:50
+Teaching A Bldg 310 
+Óî Íõ 
+T07-TUT(2389) 
+We,19:00,19:50
+Teaching A Bldg 310 
+Óî Íõ 
+T08-TUT(2390) 
+Th,20:00,20:50
+Teaching A Bldg 310 
+Óî Íõ 
+T09-TUT(2391) 
+Tu,19:00,19:50
+Teaching A Bldg 310 
+Óî Íõ 
+T10-TUT(2392) 
+We,18:00,18:50
+Teaching A Bldg 307 
+Óî Íõ 
+T11-TUT(2393) 
+We,19:00,19:50
+Teaching A Bldg 307 
+Óî Íõ 
+T12-TUT(2394) 
+Th,19:00,19:50
+Teaching A Bldg 307 
+Óî Íõ 
+T13-TUT(2395) 
+Mo,18:00,18:50
+Teaching A Bldg 307 
+Óî Íõ 
+>STA 3006 - Design and Analysis of Experiments 
+L01-LEC(2396) 
+We,13:00,13:50,Mo,13:00,14:50
+Teaching C Bldg 206 
+Zhaoyuan Li 
+L02-LEC(2397) 
+Tu,08:30,10:20,We,14:00,14:50
+Teaching C Bldg 206 
+Zhaoyuan Li 
+T01-TUT(2398) 
+Mo,20:00,20:50
+Teaching D Bldg 314 
+ÕÅ²ßÒ¢ (ZHANG Ceyao), ºúÅÊÎÄ (HU, Panwen) 
+T02-TUT(2399) 
+We,20:00,20:50
+Teaching D Bldg 414 
+ÕÅ²ßÒ¢ (ZHANG Ceyao), ºúÅÊÎÄ (HU, Panwen) 
+T03-TUT(2400) 
+Mo,20:00,20:50
+Teaching D Bldg 414 
+ÕÅ²ßÒ¢ (ZHANG Ceyao), ºúÅÊÎÄ (HU, Panwen) 
+>STA 3010 - Regression Analysis 
+L01-LEC(2401) 
+Mo,10:30,11:50,We,10:30,11:50
+Teaching B Bldg 105 
+Feng YIN 
+L02-LEC(2402) 
+Mo,08:30,09:50,We,08:30,09:50
+Teaching B Bldg 105 
+Feng YIN 
+T01-TUT(2403) 
+Tu,19:00,19:50
+Teaching D Bldg 210 
+´÷Ò»çå (DAI, Yijue), ºéÊ«Ó± (HONG, Shiying), ¾ÏÔÃ (JU, Yue) 
+T02-TUT(2404) 
+Th,20:00,20:50
+Teaching D Bldg 210 
+´÷Ò»çå (DAI, Yijue), ºéÊ«Ó± (HONG, Shiying), ¾ÏÔÃ (JU, Yue) 
+T03-TUT(2405) 
+We,20:00,20:50
+Teaching D Bldg 209 
+´÷Ò»çå (DAI, Yijue), ºéÊ«Ó± (HONG, Shiying), ¾ÏÔÃ (JU, Yue) 
+T04-TUT(2406) 
+Mo,20:00,20:50
+Teaching D Bldg 210 
+´÷Ò»çå (DAI, Yijue), ºéÊ«Ó± (HONG, Shiying), ¾ÏÔÃ (JU, Yue) 
+T05-TUT(2407) 
+Mo,19:00,19:50
+Teaching D Bldg 210 
+´÷Ò»çå (DAI, Yijue), ºéÊ«Ó± (HONG, Shiying), ¾ÏÔÃ (JU, Yue) 
+T06-TUT(2408) 
+Mo,20:00,20:50
+Teaching D Bldg 209 
+´÷Ò»çå (DAI, Yijue), ºéÊ«Ó± (HONG, Shiying), ¾ÏÔÃ (JU, Yue) 
+>STA 3030 - Survey Sampling 
+L01-LEC(2409) 
+We,15:30,16:50,We,18:00,19:20
+Teaching B Bldg 103 
+John Wright 
+T01-TUT(2410) 
+Th,18:00,18:50
+Teaching D Bldg 202 
+Yishu Li, Âí³©Òí (MA, Changyi) 
+T02-TUT(2411) 
+Th,19:00,19:50
+Teaching D Bldg 202 
+Yishu Li, Âí³©Òí (MA, Changyi) 
+T03-TUT(2412) 
+Fr,18:00,18:50
+Teaching D Bldg 202 
+Yishu Li, Âí³©Òí (MA, Changyi) 
+>STA 3100 - Advanced Statistics 
+L01-LEC(2602) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching D Bldg 103 
+bojun lu 
+T01-TUT(2603) 
+Tu,20:00,20:50
+Teaching D Bldg 202 
+Ó÷¸ù (YU, Gen), ÍõË¼ÒÝ (WANG, Siyi) 
+T02-TUT(2604) 
+Fr,20:00,20:50
+Teaching D Bldg 202 
+Ó÷¸ù (YU, Gen), ÍõË¼ÒÝ (WANG, Siyi) 
+T03-TUT(2605) 
+Tu,19:00,19:50
+Teaching D Bldg 202 
+Ó÷¸ù (YU, Gen), ÍõË¼ÒÝ (WANG, Siyi) 
+>STA 4002 - Multivariate Techniques with Business Applications 
+L01-LEC(2413) 
+Tu,13:30,14:50,Th,13:30,14:50
+Teaching C Bldg 106 
+bojun lu 
+T01-TUT(2414) 
+Tu,20:00,20:50
+Teaching C Bldg 106 
+ÈÎÊéÒÇ (REN, Shuyi) 
+>STA 4003 - Time Series 
+L01-LEC(2415) 
+Mo,10:30,11:50,We,10:30,11:50
+Administration Bldg E205 
+Sergios Theodoridis 
+T01-TUT(2416) 
+Mo,19:00,19:50
+Teaching A Bldg 307 
+½ªÒÀÆº (JIANG, Yiping), ÀîÍ® (LI, Tong) 
+T02-TUT(2417) 
+Mo,20:00,20:50
+Teaching A Bldg 307 
+½ªÒÀÆº (JIANG, Yiping), ÀîÍ® (LI, Tong) 
+T03-TUT(2418) 
+Tu,19:00,19:50
+Teaching A Bldg 307 
+½ªÒÀÆº (JIANG, Yiping), ÀîÍ® (LI, Tong) 
+T04-TUT(2419) 
+Tu,20:00,20:50
+Teaching A Bldg 307 
+½ªÒÀÆº (JIANG, Yiping), ÀîÍ® (LI, Tong) 
+>STA 4005 - Survival Modelling 
+L01-LEC(2420) 
+Tu,10:30,11:50,Th,10:30,11:50
+Teaching B Bldg 102 
+Anna Choi, Ka-Wai TSANG 
+T01-TUT(2421) 
+Tu,19:00,19:50
+Teaching D Bldg 203 
+ÕÅ¿¡Åô (ZHANG, Junpeng), Ðìê× (XU, Yao) 
+T02-TUT(2422) 
+We,19:00,19:50
+Teaching D Bldg 203 
+ÕÅ¿¡Åô (ZHANG, Junpeng), Ðìê× (XU, Yao) 
+T03-TUT(2423) 
+Th,19:00,19:50
+Teaching D Bldg 203 
+ÕÅ¿¡Åô (ZHANG, Junpeng), Ðìê× (XU, Yao) 
+>STA 4011 - Selected Topics in Statistics ¢ò 
+L01-LEC(2626) 
+Th,08:30,09:50,Fr,08:30,09:50
+Teaching A Bldg 307 
+Ka-Wai TSANG 
+T01-TUT(2627) 
+Th,20:00,20:50,´÷Î¬,(DAI,,i) 
+
+Teaching A Bldg 307 
+´÷Î¬ (DAI, Wei) 
+>TRA 1010 - Principles of Translation 
+L01-LEC(2479) 
+Tu,08:30,10:20
+Teaching B Bldg 102 
+Á¢µÜ Íõ 
+T01-TUT(2480) 
+Th,14:00,14:50
+Cheng Dao Bldg 208 
+Cao Mooney, Á¢µÜ Íõ 
+T02-TUT(2481) 
+Th,15:00,15:50
+Cheng Dao Bldg 208 
+Cao Mooney, Á¢µÜ Íõ 
+T03-TUT(2482) 
+Th,18:00,18:50
+Cheng Dao Bldg 208 
+Cao Mooney, Á¢µÜ Íõ 
+>TRA 2310 - Consecutive Interpreting I 
+L01-LEC(2542) 
+Mo,10:30,11:50
+Cheng Dao Bldg 209 
+Bo ZHOU 
+L02-LEC(2543) 
+Mo,13:00,14:20
+Cheng Dao Bldg 209 
+Bo ZHOU 
+L03-LEC(2544) 
+Mo,15:30,16:50
+Cheng Dao Bldg 209 
+Bo ZHOU 
+T01-TUT(2545) 
+We,10:30,11:50,We,10:30,11:50
+Cheng Dao Bldg 208 
+Bo ZHOU, Shan Yang 
+T02-TUT(2546) 
+We,13:00,14:20,We,13:00,14:20
+Cheng Dao Bldg 208 
+Bo ZHOU, Shan Yang 
+T03-TUT(2547) 
+We,15:30,16:50,We,15:30,16:50
+Cheng Dao Bldg 208 
+Bo ZHOU, Shan Yang 
+>TRA 2340 - Conference Interpreting 
+L01-LEC(2548) 
+Th,19:00,20:50
+Cheng Dao Bldg 420 
+Êæ°× Ò¶ 
+L02-LEC(2549) 
+Th,13:00,14:50
+Cheng Dao Bldg 420 
+Êæ°× Ò¶ 
+L03-LEC(2550) 
+Th,16:00,17:50
+Cheng Dao Bldg 420 
+Êæ°× Ò¶ 
+T01-TUT(2551) 
+Fr,10:00,10:50
+Cheng Dao Bldg 420 
+Jiaxin Chen, Êæ°× Ò¶ 
+T02-TUT(2552) 
+Fr,11:00,11:50
+Cheng Dao Bldg 420 
+Jiaxin Chen, Êæ°× Ò¶ 
+T03-TUT(2553) 
+Fr,09:00,09:50
+Cheng Dao Bldg 420 
+Jiaxin Chen, Êæ°× Ò¶ 
+>TRA 2410 - Computers and Translation 
+L01-LEC(2554) 
+We,13:30,15:20
+Teaching C Bldg 115 
+Sin Wai CHAN 
+T01-TUT(2555) 
+Fr,15:00,15:50
+Zhi Xin Bldg 310 
+Cao Mooney 
+>TRA 2520 - Textual Analysis and Readings 
+L01-LEC(2556) 
+Tu,10:30,11:50
+Teaching C Bldg 115 
+Foongha Yap 
+L02-LEC(2557) 
+Tu,13:00,14:20
+Teaching C Bldg 115 
+Foongha Yap 
+T01-TUT(2558) 
+Th,10:30,11:50
+Teaching C Bldg 115 
+Foongha Yap, Shan Yang 
+T02-TUT(2559) 
+Th,13:00,14:20
+Teaching C Bldg 115 
+Foongha Yap, Shan Yang 
+>TRA 3110 - Translation Criticism 
+L01-LEC(2560) 
+Mo,19:00,21:00
+Teaching D Bldg 211 
+´¿Éî Öì 
+T01-TUT(2561) 
+Tu,18:00,18:50
+Teaching D Bldg 211 
+´¿Éî Öì 
+T02-TUT(2562) 
+Tu,19:00,19:50
+Teaching D Bldg 211 
+´¿Éî Öì 
+>TRA 3200 - Commercial Translation 
+L01-LEC(2563) 
+Tu,10:00,11:50
+Teaching C Bldg 108 
+En Mian WANG 
+T01-TUT(2564) 
+Fr,14:00,14:50
+Teaching C Bldg 108 
+En Mian WANG, Jiaxin Chen 
+>TRA 3250 - News Translation 
+L01-LEC(2565) 
+Mo,08:30,09:50
+Teaching D Bldg 211 
+Ying Yi Zhuang 
+T01-TUT(2566) 
+We,08:30,09:50
+Teaching D Bldg 211 
+Shan Yang, Ying Yi Zhuang 
+T02-TUT(2567) 
+We,10:30,11:50
+Teaching D Bldg 211 
+Shan Yang, Ying Yi Zhuang 
+>TRA 3260 - Public Relations Translation 
+L01-LEC(2568) 
+Tu,15:00,16:50
+Teaching D Bldg 210 
+Lan Li 
+T01-TUT(2569) 
+Th,15:00,15:50
+Teaching D Bldg 210 
+Lan Li, Ya Qing Hu 
+>TRA 3270 - Financial Translation 
+L01-LEC(2570) 
+Tu,08:30,09:50
+Teaching C Bldg 108 
+Ying Yi Zhuang 
+T01-TUT(2571) 
+Th,08:30,09:50
+Teaching C Bldg 108 
+Jiaxin Chen, Ying Yi Zhuang 
+T02-TUT(2572) 
+Th,10:30,11:50
+Teaching C Bldg 108 
+Jiaxin Chen, Ying Yi Zhuang 
+>TRA 3510 - Bilingual Corporate Communication 
+L01-LEC(2573) 
+Th,08:30,10:20
+Teaching D Bldg 210 
+Lan Li 
+T01-TUT(2574) 
+Fr,10:30,11:20
+Teaching D Bldg 210 
+Lan Li, Ya Qing Hu 
